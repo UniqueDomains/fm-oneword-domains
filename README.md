@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FM one-word domains still available to buy.
 
-This dataset contains 4,050 .FM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,051 .FM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fm-oneword-domains&utm_content=description.top) (4,050) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.FM one word domains](
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.fm        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.fm      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.fm        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.fm      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.fm  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.fm      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.fm  | available | 58       | 7%     | 9      |           |         |         |
