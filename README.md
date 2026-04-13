@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C139%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C140%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C139%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .fm one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,139 rows · **Live catalog:** 8,139 domains
+**Public extract:** 8,140 rows · **Live catalog:** 8,139 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/fm`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FM one-word domain ca
 
 ### Files
 
-- `fm.csv` — public CSV extract (8,139 rows)
-- `fm.json` — public JSON extract (8,139 rows)
+- `fm.csv` — public CSV extract (8,140 rows)
+- `fm.json` — public JSON extract (8,140 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -75,10 +75,10 @@ print(df.head())
 | clear.fm      | premium   | $24,993.75 | $160.99       | 90             | 49     | 5      | name.com                         |
 | order.fm      | available | $99        | $160.99       | 78             | 38     | 5      | name.com                         |
 | rise.fm       | resell    | —          | —             | 62             | 98     | 4      | Namecheap                        |
-| nice.fm       | premium   | $4,993.75  | $160.99       | 86             | 44     | 4      | name.com                         |
+| mix.fm        | premium   | $62,493.75 | $160.99       | 66             | 45     | 3      | name.com                         |
 | chime.fm      | available | $99        | —             | 76             | 37     | 5      | name.com                         |
 | marginal.fm   | resell    | —          | —             | 74             | 97     | 8      | dotFM                            |
-| mix.fm        | premium   | $62,493.75 | $160.99       | 66             | 44     | 3      | name.com                         |
+| nice.fm       | premium   | $4,993.75  | $160.99       | 86             | 44     | 4      | name.com                         |
 | investing.fm  | available | $99        | —             | 82             | 35     | 9      | name.com                         |
 | habitat.fm    | resell    | —          | —             | 74             | 66     | 7      | Instra Corporation Pty Ltd       |
 | energy.fm     | premium   | $1,293.50  | $110.50       | 82             | 43     | 6      | namecheap                        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,139-row public sample | 8,139 live domains                               |
+| 8,140-row public sample | 8,139 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FM One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
