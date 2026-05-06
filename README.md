@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .fm one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,979 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,979 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,979 domains · **Median ask:** $179.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/fm`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| RedSox.fm       | available | $118.98   | —             | 72             | 60     | 7      | namecheap                  |
-| coins.fm        | resell    | —         | —             | 56             | 41     | 5      | Dynadot LLC                |
-| farmers.fm      | premium   | $243.75   | —             | 54             | 59     | 7      | name.com                   |
-| tokens.fm       | available | $88.99    | $88.99        | 51             | 36     | 6      | namesilo                   |
-| stories.fm      | resell    | —         | —             | 58             | 36     | 7      | Dynadot LLC                |
-| blocks.fm       | premium   | $243.75   | —             | 53             | 29     | 6      | name.com                   |
-| homes.fm        | available | $99       | —             | 86             | 34     | 5      | name.com                   |
-| investors.fm    | resell    | —         | —             | 60             | 23     | 9      | Namecheap                  |
-| cams.fm         | premium   | $1,243.75 | —             | 52             | 29     | 4      | name.com                   |
-| letsgo.fm       | available | $99       | —             | 57             | 31     | 7      | name.com                   |
-| tweet.fm        | resell    | —         | —             | 82             | 21     | 5      | EPAG Domainservices GmbH   |
-| doctors.fm      | premium   | $243.75   | —             | 56             | 26     | 7      | name.com                   |
-| spaces.fm       | available | $99       | —             | 54             | 30     | 6      | name.com                   |
-| heavymetal.fm   | resell    | —         | —             | 70             | 15     | 11     | Instra Corporation Pty Ltd |
-| destination.fm  | premium   | $243.75   | —             | 90             | 25     | 11     | name.com                   |
-| quotes.fm       | available | $99       | —             | 58             | 29     | 6      | name.com                   |
-| coaches.fm      | resell    | —         | —             | 56             | 15     | 7      | eNom, Inc.                 |
-| shops.fm        | premium   | $368.75   | —             | 64             | 24     | 5      | name.com                   |
-| commonground.fm | available | $99       | —             | 74             | 28     | 13     | name.com                   |
-| Jews.fm         | resell    | —         | —             | 50             | 12     | 4      | 1API GmbH                  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Trex.fm     | available | $118.98   | —             | 80             | 24     | 5      | namecheap   |
+| homes.fm    | available | $99       | —             | 86             | 34     | 5      | name.com    |
+| finals.fm   | available | $88.99    | $88.99        | 80             | 7      | 6      | namesilo    |
+| geton.fm    | available | $99       | —             | 82             | 10     | 6      | name.com    |
+| Apples.fm   | available | $118.98   | —             | 90             | 16     | 6      | namecheap   |
+| dogsit.fm   | available | $99       | —             | 96             | 2      | 6      | name.com    |
+| edamame.fm  | available | $88.99    | $88.99        | 80             | 9      | 7      | namesilo    |
+| gearup.fm   | available | $99       | —             | 80             | 16     | 7      | name.com    |
+| playin.fm   | available | $99       | —             | 80             | 10     | 7      | name.com    |
+| stirup.fm   | available | $99       | —             | 82             | 3      | 7      | name.com    |
+| dogsick.fm  | available | $99       | —             | 90             | 1      | 7      | name.com    |
+| getlife.fm  | available | $99       | —             | 80             | 5      | 8      | name.com    |
+| leaveon.fm  | available | $99       | —             | 80             | 1      | 8      | name.com    |
+| presents.fm | available | $99       | —             | 80             | 9      | 8      | name.com    |
+| RedSox.fm   | available | $118.98   | —             | 72             | 60     | 7      | namecheap   |
+| coins.fm    | resell    | —         | —             | 56             | 41     | 5      | Dynadot LLC |
+| farmers.fm  | premium   | $243.75   | —             | 54             | 59     | 7      | name.com    |
+| tokens.fm   | available | $88.99    | $88.99        | 51             | 36     | 6      | namesilo    |
+| stories.fm  | resell    | —         | —             | 58             | 36     | 7      | Dynadot LLC |
+| blocks.fm   | premium   | $243.75   | —             | 53             | 29     | 6      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,979 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,979 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on one-word .fm domains. The names range from broad dictionary terms like tips.fm, homes.fm, and forces.fm to shorter coined or compact forms such as Acup.fm and barup.fm. For founders, the main question is whether a name is memorable, easy to say, and specific enough to anchor a brand without becoming limiting. For investors, the key comparison is price discipline against word quality, breadth of use, and resale optionality. The median ask is 179.01, which makes this selection relatively approachable on entry price alone, but renewal terms and trademark overlap still need careful review before choosing.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results are one-word domains on the .fm extension
+- Median ask across this set is 179.01
+- Examples include tips.fm, homes.fm, jewels.fm
+- Check word breadth, spelling, and trademark overlap
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FM One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
