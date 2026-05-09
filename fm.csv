@@ -840,6 +840,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49c54a78-9d38-42ce-8554-4520a5ca8cfa,coffeehousing.fm,available,88.99,88.99,72,1,13,namesilo,,
 49ec1c16-a7b1-4015-ad78-890903adccf1,gooutonalimb.fm,available,99,,60,1,16,name.com,,
 49f5a5be-24fe-4745-b315-13b7b3eda3bf,JusticeLeague.fm,available,118.98,,52,7,14,namecheap,,
+4a5a124c-0e18-4684-be03-8fd80b35c5af,willow.fm,premium,,,82,32,6,,,
 4a6f3706-1669-4e6b-b66d-9b54f3958ca9,breasts.fm,available,99,,50,9,7,name.com,,
 4a7a0aa5-6d5a-4175-8d8b-4558359326d9,mortars.fm,available,88.99,88.99,40,2,7,namesilo,,
 4a8d5d52-306d-4246-bb0f-b0c79c50ef71,coulduse.fm,available,99,,56,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5978d144-2ee6-4857-8d9d-33f3da718fa3,punched.fm,available,88.99,88.99,50,3,7,namesilo,,
 597c28eb-d5fc-4b33-b22e-0a91a8088bd7,alcoholpoisoning.fm,available,99,,48,1,17,name.com,,
 598db5dc-f95a-4602-89dd-e372cdcea6dc,blueberries.fm,available,99,,70,9,11,name.com,,
-59b87d0f-b1ba-4b01-9da9-17597ff5e5cc,donkeys.fm,available,88.99,88.99,46,5,7,namesilo,,
