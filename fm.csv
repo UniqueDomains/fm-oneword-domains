@@ -926,6 +926,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52d3ef33-e6de-4229-8796-8b5dfc7fee7d,tillers.fm,available,99,,51,3,7,name.com,,
 52d9bd13-9f1c-4a5a-bba3-35e5e5ddf1c1,playarole.fm,available,99,,68,1,11,name.com,,
 52ea9ffb-733b-435e-82fd-ac8763b0caa1,inunison.fm,available,99,,72,4,9,name.com,,
+531d54fb-c59c-408e-88ce-b8b022d934cd,SriLanka.fm,resell,,,68,98,9,dotFM,07/04/2025 14:07,07/04/2027 23:59
 535b0a52-5aae-4b89-a628-25e26eb9132f,luncheonettes.fm,available,88.99,88.99,52,1,13,namesilo,,
 5362e232-0e68-40be-a710-5988b29e4caf,minimumwages.fm,available,88.99,88.99,52,1,13,namesilo,,
 536a88cf-f8f1-43a1-96bc-7935d260c9a5,stronger.fm,available,99,,67,19,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58a31ecd-c27e-4f81-a689-33268a79669d,stretchout.fm,available,99,,70,2,11,name.com,,
 58cc7c29-a3a5-428e-9622-cb53fc93806a,traders.fm,available,99,,60,26,7,name.com,,
 591e419e-fa9b-46fc-a160-682bd5fe0773,manytomany.fm,available,99,,68,2,12,name.com,,
-5978d144-2ee6-4857-8d9d-33f3da718fa3,punched.fm,available,88.99,88.99,50,3,7,namesilo,,
