@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fm one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,360 domains · **Median ask:** $166.01 · **High-demand under $2,500:** 46
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/fm`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
 | --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| okay.fm   | premium   | $6,243.75  | $160.99       | high           | low    | 4      | name.com                   |
+| quiet.fm  | available | $99        | —             | high           | low    | 5      | name.com                   |
+| pardon.fm | available | $88.99     | $88.99        | high           | low    | 6      | namesilo                   |
 | ago.fm    | available | $99        | $160.99       | medium         | low    | 3      | name.com                   |
 | new.fm    | resell    | —          | —             | high           | medium | 3      | BRS Media Inc.             |
 | hit.fm    | premium   | $62,493.75 | —             | high           | low    | 3      | name.com                   |
@@ -81,9 +84,6 @@ print(df.head())
 | pre.fm    | premium   | $243.75    | —             | medium         | low    | 3      | name.com                   |
 | coy.fm    | available | $99        | $160.99       | medium         | low    | 3      | name.com                   |
 | shift.fm  | resell    | —          | —             | high           | medium | 5      | 1API GmbH                  |
-| toy.fm    | premium   | $1,243.75  | —             | high           | low    | 3      | name.com                   |
-| ixl.fm    | available | $69.98     | $118.98       | low            | low    | 3      | namecheap                  |
-| campus.fm | resell    | —          | —             | high           | low    | 6      | 1API GmbH                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FM One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FM One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
