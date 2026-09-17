@@ -1,10 +1,10 @@
-# Available .FM One-Word Domains (23,234)
+# Available .FM One-Word Domains (24,559)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C234%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C559%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fm one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,234 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,559 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,234 domains · **Median ask:** $147.26 · **High-demand under $2,500:** 51
+**Public extract:** 1,000 rows · **Live catalog:** 24,559 domains · **Median ask:** $144.98 · **High-demand under $2,500:** 52
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/fm`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,6 @@ print(df.head())
 
 | domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
 | --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| okay.fm   | premium   | $6,243.75  | $160.99       | high           | low    | 4      | name.com                   |
-| quiet.fm  | available | $99        | —             | high           | low    | 5      | name.com                   |
-| pardon.fm | available | $88.99     | $88.99        | high           | low    | 6      | namesilo                   |
-| there.fm  | available | $88.99     | $88.99        | high           | low    | 5      | namesilo                   |
-| middle.fm | available | $88.99     | $88.99        | high           | low    | 6      | namesilo                   |
 | ago.fm    | available | $99        | $160.99       | medium         | low    | 3      | name.com                   |
 | new.fm    | resell    | —          | —             | high           | medium | 3      | BRS Media Inc.             |
 | hit.fm    | premium   | $62,493.75 | —             | high           | low    | 3      | name.com                   |
@@ -84,6 +79,11 @@ print(df.head())
 | clv.fm    | available | $69.98     | $118.98       | low            | low    | 3      | namecheap                  |
 | raise.fm  | resell    | —          | —             | high           | low    | 5      | Instra Corporation Pty Ltd |
 | pre.fm    | premium   | $243.75    | —             | medium         | low    | 3      | name.com                   |
+| coy.fm    | available | $99        | $160.99       | medium         | low    | 3      | name.com                   |
+| shift.fm  | resell    | —          | —             | high           | medium | 5      | 1API GmbH                  |
+| toy.fm    | premium   | $1,243.75  | —             | high           | low    | 3      | name.com                   |
+| ixl.fm    | available | $69.98     | $118.98       | low            | low    | 3      | namecheap                  |
+| campus.fm | resell    | —          | —             | high           | low    | 6      | 1API GmbH                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,234 live domains                        |
+| 1,000-row public sample | 24,559 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 51 high-demand names under $2,500          |
+| Basic exported fields   | 52 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FM One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FM One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
