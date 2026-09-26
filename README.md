@@ -1,10 +1,10 @@
-# Available .FM One-Word Domains (30,856)
+# Available .FM One-Word Domains (20,827)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C856%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C827%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fm one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,856 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,827 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,856 domains · **Median ask:** $135.33 · **High-demand under $2,500:** 44
+**Public extract:** 1,000 rows · **Live catalog:** 20,827 domains · **Median ask:** $173.14 · **High-demand under $2,500:** 90
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/fm`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                        |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------- |
-| power.fm      | premium   | $1,273.60  | $102          | high           | medium | 5      | namesilo                         |
-| animal.fm     | available | $69.98     | $118.98       | high           | low    | 6      | namecheap                        |
-| floor.fm      | available | $69.98     | $118.98       | high           | low    | 5      | namecheap                        |
-| pyramid.fm    | available | $69.98     | $118.98       | high           | low    | 7      | namecheap                        |
-| coordinate.fm | available | $69.98     | $118.98       | high           | low    | 10     | namecheap                        |
-| handle.fm     | available | $69.98     | $118.98       | high           | low    | 6      | namecheap                        |
-| employ.fm     | available | $69.98     | $118.98       | high           | low    | 6      | namecheap                        |
-| ain.fm        | available | $69.98     | $118.98       | high           | low    | 3      | namecheap                        |
-| hey.fm        | resell    | —          | —             | high           | medium | 3      | Dynadot LLC                      |
-| hit.fm        | premium   | $62,493.75 | —             | high           | low    | 3      | name.com                         |
-| ate.fm        | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                         |
-| pay.fm        | resell    | —          | —             | high           | medium | 3      | Soluciones Corporativas IP, S.L. |
-| lip.fm        | premium   | $1,243.75  | —             | high           | low    | 3      | name.com                         |
-| bce.fm        | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                         |
-| tax.fm        | resell    | —          | —             | high           | medium | 3      | 1API GmbH                        |
-| pen.fm        | premium   | $368.75    | —             | high           | low    | 3      | name.com                         |
-| beg.fm        | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                         |
-| city.fm       | resell    | —          | —             | high           | medium | 4      | Dynadot Inc                      |
-| pre.fm        | premium   | $243.75    | —             | high           | low    | 3      | name.com                         |
-| btw.fm        | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                         |
+| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                   |
+| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| awn.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| cuisine.fm  | resell    | $99        | —             | high           | low    | 7      | name.com                    |
+| ado.fm      | premium   | $249.60    | $102          | high           | low    | 3      | namesilo                    |
+| azt.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| meet.fm     | resell    | —          | —             | high           | low    | 4      | Dynadot Inc                 |
+| asp.fm      | premium   | $1,273.60  | $102          | high           | low    | 3      | namesilo                    |
+| bps.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| rest.fm     | resell    | —          | —             | high           | low    | 4      | 1API GmbH                   |
+| dud.fm      | premium   | $1,243.75  | $160.99       | high           | low    | 3      | name.com                    |
+| jib.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| privacy.fm  | resell    | —          | —             | high           | medium | 7      | —                           |
+| job.fm      | premium   | $37,493.75 | —             | high           | low    | 3      | name.com                    |
+| lcd.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| trading.fm  | resell    | —          | —             | high           | low    | 7      | Instra Corporation Pty Ltd. |
+| min.fm      | premium   | $243.75    | $160.99       | high           | low    | 3      | name.com                    |
+| ldl.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| colombia.fm | resell    | —          | —             | high           | high   | 8      | —                           |
+| nay.fm      | premium   | $249.60    | $102          | medium         | low    | 3      | namesilo                    |
+| nyt.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                    |
+| fuss.fm     | premium   | $249.60    | $102          | high           | low    | 4      | namesilo                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,856 live domains                        |
+| 1,000-row public sample | 20,827 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 44 high-demand names under $2,500          |
+| Basic exported fields   | 90 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FM One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
