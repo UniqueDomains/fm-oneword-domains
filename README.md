@@ -1,10 +1,10 @@
-# Available .FM One-Word Domains (21,579)
+# Available .FM One-Word Domains (22,052)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C579%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C052%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .fm one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,579 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,052 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,579 domains · **Median ask:** $173.16 · **High-demand under $2,500:** 103
+**Public extract:** 1,000 rows · **Live catalog:** 22,052 domains · **Median ask:** $174.25 · **High-demand under $2,500:** 109
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/fm`
@@ -81,9 +81,9 @@ print(df.head())
 | ldl.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                           |
 | nay.fm      | premium   | $249.60    | $102          | medium         | low    | 3      | namesilo                           |
 | nyt.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                           |
-| xml.fm      | premium   | $1,273.60  | $102          | medium         | low    | 3      | namesilo                           |
+| nhs.fm      | premium   | $253.50    | $110.50       | high           | low    | 3      | namecheap                          |
 | orr.fm      | available | $88.99     | $88.99        | high           | low    | 3      | namesilo                           |
-| fuss.fm     | premium   | $249.60    | $102          | high           | low    | 4      | namesilo                           |
+| xml.fm      | premium   | $1,273.60  | $102          | medium         | low    | 3      | namesilo                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,579 live domains                        |
+| 1,000-row public sample | 22,052 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 103 high-demand names under $2,500         |
+| Basic exported fields   | 109 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
