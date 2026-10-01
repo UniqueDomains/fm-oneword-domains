@@ -11,14 +11,14 @@ c95c49ec-fa84-4c32-9aa2-c401d637bd66,candid.fm,premium,243.75,160.99,high,low,6,
 2cfc48eb-cdc0-4775-bb7d-bc8c86fb7251,contributed.fm,available,85,85,medium,low,11,cloudflare,,,29/09/2026 17:13
 4d015bf4-9d36-4682-8d4b-9bd8450937de,persuasion.fm,premium,201.83,87.98,high,low,10,spaceship,,,30/09/2026 02:24
 d530dba2-f0c5-428a-bceb-c95027b40f79,approximate.fm,available,88.99,88.99,high,low,11,namesilo,,,29/09/2026 08:31
-a419a642-7703-4193-9d60-db13b3e84bb8,turmoil.fm,available,85,85,high,low,7,cloudflare,,,29/09/2026 19:12
+a419a642-7703-4193-9d60-db13b3e84bb8,turmoil.fm,available,85,85,medium,low,7,cloudflare,,,29/09/2026 19:12
 4a2d89f1-858f-4604-9b0a-c52a1756cf56,echoic.fm,available,69.98,118.98,medium,low,6,namecheap,,,14/08/2026 23:34
 54d21564-ab29-4e8d-b343-341e933e8b73,misprint.fm,available,69.98,118.98,medium,low,8,namecheap,,,24/08/2026 02:49
 eb292537-6151-478b-8f5a-efa99bda8c7e,difference.fm,available,67.98,87.72,high,low,10,spaceship,,,29/09/2026 14:33
 5b11e04b-09b9-4dba-9ced-a2397564fc85,noaa.fm,available,67.98,87.72,high,low,4,spaceship,,,28/09/2026 02:28
 7284ad12-50c0-4289-ada3-a580d8a4ce3a,cheering.fm,available,69.98,118.98,high,low,8,namecheap,,,12/08/2026 03:45
 940eac20-1f43-45fb-8852-45f619ad04b2,resurrection.fm,available,88.99,88.99,high,low,12,namesilo,,,28/09/2026 16:51
-f2052f62-a9a7-460d-b2b7-37efc77ebffe,formerly.fm,available,88.99,88.99,high,low,8,namesilo,,,24/09/2026 15:13
+f2052f62-a9a7-460d-b2b7-37efc77ebffe,formerly.fm,available,88.99,88.99,medium,low,8,namesilo,,,24/09/2026 15:13
 fa578928-f8e8-4452-99dd-6ac4476e79bd,conditions.fm,available,88.99,88.99,high,low,10,namesilo,,,28/09/2026 10:19
 67dc07c1-0839-4435-b09a-2fab4a1085d9,pyramidic.fm,available,69.98,118.98,medium,low,9,namecheap,,,09/09/2026 06:57
 f0bc9e77-c8ce-4538-addf-5318b5e71b0a,spectacled.fm,available,69.98,118.98,medium,low,10,namecheap,,,09/08/2026 17:20
@@ -52,7 +52,7 @@ baf20967-6ad3-4e76-803a-f864f068a7f7,bifurcated.fm,available,69.98,118.98,medium
 48e99e85-1ec2-46db-9422-b0429d1b639e,humongous.fm,available,69.98,118.98,medium,low,9,namecheap,,,08/08/2026 12:58
 b660b99e-8fac-45d3-b5ac-2419d5915569,spangled.fm,available,69.98,118.98,high,low,8,namecheap,,,18/08/2026 21:17
 3d403a4a-91b9-4792-8ec2-dabb12ce24d3,halal.fm,premium,618.75,160.99,high,low,5,name.com,,,20/08/2026 22:18
-5e9124af-2854-4427-9e3d-48a855de2be1,gooey.fm,available,69.98,118.98,high,low,5,namecheap,,,20/08/2026 16:53
+5e9124af-2854-4427-9e3d-48a855de2be1,gooey.fm,available,69.98,118.98,medium,low,5,namecheap,,,20/08/2026 16:53
 2edc47f9-4b80-49d4-92bd-b40037658928,autogiro.fm,available,88.99,88.99,medium,low,8,namesilo,,,21/09/2026 06:22
 f11e719c-c092-4931-9461-e39ee24f33b7,cloudlike.fm,available,69.98,118.98,medium,low,9,namecheap,,,12/08/2026 12:38
 e383c34b-6775-4b8c-9129-a2cfaac91e35,antennaria.fm,available,88.99,88.99,medium,low,10,namesilo,,,19/09/2026 12:52
@@ -60,9 +60,10 @@ e383c34b-6775-4b8c-9129-a2cfaac91e35,antennaria.fm,available,88.99,88.99,medium,
 d05bba5a-92c6-4f6d-918a-8738d5421b1e,alehouse.fm,available,69.98,118.98,medium,low,8,namecheap,,,18/09/2026 05:01
 5daac100-8246-4ed6-beef-3bf8a305b70a,apothecium.fm,available,69.98,118.98,medium,low,10,namecheap,,,19/09/2026 19:43
 4055a145-b11a-4b9e-9f72-c481aa6af052,knee.fm,available,88.99,88.99,high,low,4,namesilo,,,20/09/2026 11:27
+0954c3a8-f153-4b91-8ad2-0af1d323700a,venezia.fm,available,67.98,87.72,high,low,7,spaceship,,,30/09/2026 11:17
 10a60c9a-1e23-4255-9578-fdf1b8d533d6,shame.fm,available,88.99,88.99,high,low,5,namesilo,,,29/09/2026 15:43
 feefc716-f57d-42c0-ab3e-05c86f5d0c7d,unstylish.fm,available,69.98,118.98,medium,low,9,namecheap,,,10/09/2026 23:17
-c9cade56-ba38-4deb-b475-e231992669c6,cuisine.fm,resell,99,,high,low,7,"NameCheap, Inc.",25/06/2026 11:02,25/06/2027 23:59,28/09/2026 04:20
+c9cade56-ba38-4deb-b475-e231992669c6,cuisine.fm,resell,99,,high,low,7,"NameCheap, Inc.",25/06/2026 11:02,25/06/2027 23:59,30/09/2026 21:07
 36b15030-315f-46b9-b867-21be903d5f69,unending.fm,available,69.98,118.98,high,low,8,namecheap,,,
 cea06dc2-db2d-4608-b282-2156b0625b50,detestable.fm,available,69.98,118.98,medium,low,10,namecheap,,,
 acdb22ea-d27c-46ae-a19c-96e764966599,regressive.fm,available,69.98,118.98,high,medium,10,namecheap,,,09/09/2026 12:59
@@ -71,11 +72,14 @@ df73843b-176f-4596-9630-4cc6b09e3f03,stain.fm,available,88.99,88.99,high,low,5,n
 dcb66bf6-90d7-4b6c-8dac-2a8d99c57600,eastbound.fm,available,69.98,118.98,high,low,9,namecheap,,,14/08/2026 22:50
 087823b0-029e-4f72-8111-125510fe2d3f,feeder.fm,available,69.98,118.98,high,low,6,namecheap,,,12/08/2026 21:09
 919508f6-d258-47d0-9cce-4d081f9ac2c8,sporting.fm,available,69.98,118.98,high,low,8,namecheap,,,09/08/2026 18:15
+08dbc4e8-2275-493d-99a4-4f432bb915c7,commando.fm,available,85,85,high,low,8,cloudflare,,,01/10/2026 01:32
+0af0c511-7bf6-4c41-b03e-4ad82021eed2,superstition.fm,available,67.98,87.72,medium,low,12,spaceship,,,30/09/2026 14:14
 27c19b6b-8575-44e7-9ec8-bcd9220490c3,sexual.fm,premium,1029.83,87.98,high,low,6,spaceship,,,27/09/2026 20:20
 e7ceae6a-0894-4617-ba58-cacb2efaeb07,arms.fm,available,88.99,88.99,high,low,4,namesilo,,,20/09/2026 07:44
 de2820e7-de71-4a6c-9d35-a296b86e00a3,statewide.fm,available,69.98,118.98,high,low,9,namecheap,,,10/09/2026 19:10
 caf2d191-dcbd-4a84-941a-135cc1d6bc4b,falter.fm,available,69.98,118.98,high,low,6,namecheap,,,17/08/2026 21:39
 768d31c2-7853-4e69-aeff-535dc9ad5fa4,brute.fm,available,69.98,118.98,high,low,5,namecheap,,,
+99e8debc-d2fc-488e-841e-6a6bbd9d8524,nebula.fm,resell,,,high,medium,6,,,,30/09/2026 05:26
 f1dd14fa-3b50-445a-ac2b-51e89d995200,theorize.fm,available,88.99,88.99,high,low,8,namesilo,,,24/09/2026 17:19
 31658bc0-e855-4f8a-b0ba-7650544f5891,aconite.fm,available,88.99,88.99,medium,low,7,namesilo,,,17/09/2026 02:05
 8c0526c4-fbd5-4eb0-b24f-4e3a383ca672,peggy.fm,available,88.99,88.99,high,low,5,namesilo,,,25/09/2026 13:02
@@ -86,25 +90,29 @@ ffb69dc7-d589-4bbc-bc31-67fd8103ba0b,paula.fm,available,88.99,88.99,high,low,5,n
 632f86bd-cbf6-489e-8f65-fdd45ebc8ee7,stakes.fm,available,88.99,88.99,high,low,6,namesilo,,,23/09/2026 10:49
 ae492e27-081e-4f77-9679-996aa1879269,cupcake.fm,available,69.98,118.98,high,low,7,namecheap,,,24/09/2026 20:16
 cbcafb6b-d8a3-4cdc-9eb0-da22cf19a98c,beastly.fm,available,69.98,118.98,medium,low,7,namecheap,,,09/08/2026 04:54
+8c82dfad-db3f-479c-89cd-85b3f6345dc9,allahabad.fm,available,85,85,medium,low,9,cloudflare,,,30/09/2026 05:15
 f153d629-92d0-4159-adde-d9607c657553,closeout.fm,available,88.99,88.99,high,low,9,namesilo,,,
 b30ee0de-6244-4751-884c-c1365f495dd9,clathrate.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/08/2026 16:23
 12b4fdfb-fa67-4ec8-80b0-58c51b40926b,betrayal.fm,available,88.99,88.99,medium,low,8,namesilo,,,23/09/2026 11:24
 c57cac27-8c0f-4f29-ab5c-804eba169145,depictive.fm,available,69.98,118.98,medium,low,9,namecheap,,,14/08/2026 00:41
 46423c94-f9fa-4fcf-bda7-6c35045e3e27,airless.fm,available,69.98,118.98,medium,low,7,namecheap,,,
 6a60ec7b-4d3a-4dd5-8dce-88ee500a6c5a,feeble.fm,available,99,160.99,medium,low,6,name.com,,,13/08/2026 20:30
-29e544d9-f314-45f4-ac62-464cb5f9b21c,findings.fm,available,69.98,118.98,high,low,8,namecheap,,,28/09/2026 19:12
-208e463e-9148-4a71-9a8e-0aa2bb1fe2c8,aerogram.fm,available,88.99,88.99,high,low,8,namesilo,,,17/09/2026 13:04
+29e544d9-f314-45f4-ac62-464cb5f9b21c,findings.fm,available,69.98,118.98,medium,low,8,namecheap,,,28/09/2026 19:12
+208e463e-9148-4a71-9a8e-0aa2bb1fe2c8,aerogram.fm,available,88.99,88.99,medium,low,8,namesilo,,,17/09/2026 13:04
 6ce89c90-e31b-48b5-8c0a-90610fe8d778,riots.fm,available,85,85,low,low,5,cloudflare,,,29/09/2026 05:50
 906efdfc-f7c4-43f5-bb18-985a70369c18,accolade.fm,available,88.99,88.99,high,low,8,namesilo,,,16/09/2026 22:45
+661bbced-d41c-45ce-92ee-a14e9edfb444,drinker.fm,available,67.98,87.72,high,low,7,spaceship,,,01/10/2026 01:48
 7be8a531-ba84-4957-9c61-92614287ebb6,meetings.fm,available,69.98,118.98,medium,low,8,namecheap,,,27/09/2026 10:46
 84dc37c1-400f-428e-8ca4-28819b02b140,laziness.fm,available,69.98,118.98,medium,low,8,namecheap,,,28/09/2026 17:35
 476adc85-c45b-43f9-adac-caa714cda666,traded.fm,available,88.99,88.99,medium,low,6,namesilo,,,29/09/2026 04:46
 66e5663f-0d50-45f5-ab98-2053eae0cfe3,nhs.fm,premium,253.5,110.5,high,low,3,namecheap,,,28/09/2026 07:40
 c9662d24-324c-4c0f-a2c2-9b01d37eeaba,wrathful.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/09/2026 13:36
 05f8705b-bcec-4138-aabd-960fb78bcf35,ritardando.fm,available,69.98,118.98,high,medium,10,namecheap,,,09/09/2026 09:54
-de41b5d6-79df-43cc-bcb6-806886a2498b,service.fm,available,67.98,87.72,high,medium,7,spaceship,,,29/09/2026 02:32
+de41b5d6-79df-43cc-bcb6-806886a2498b,service.fm,available,88.99,88.99,high,medium,7,namesilo,,,01/10/2026 05:32
 12ecd64a-b39b-42e2-94c7-e08caa47601a,superfamily.fm,available,88.99,88.99,medium,low,11,namesilo,,,29/09/2026 02:59
 8eee0063-7499-4eb0-a1cf-ae6ac0ee158a,pilgrim.fm,available,85,85,high,low,7,cloudflare,,,28/09/2026 10:43
+9068a2fe-bbb7-443e-bcf9-b4d7b9efb385,powhatan.fm,available,88.99,88.99,high,low,8,namesilo,,,01/10/2026 03:20
+4e559b80-4cf5-400a-a3a9-a8f4be01a625,alphabets.fm,available,169.99,169.99,medium,low,9,godaddy,,,01/10/2026 00:06
 11da0302-8eeb-4aff-a658-e2ac4bc6caaa,replete.fm,available,69.98,118.98,high,low,7,namecheap,,,09/09/2026 14:32
 5b7f37b0-289c-4b24-84bb-efc5632de968,diagnosed.fm,available,67.98,87.72,medium,low,9,spaceship,,,28/09/2026 23:36
 6b56acac-b3ae-431d-b68a-1af6198f2a1c,aldol.fm,available,88.99,88.99,high,low,5,namesilo,,,18/09/2026 04:25
@@ -115,6 +123,7 @@ bcaf01dd-7e07-4c18-8909-231a6c6c4376,ketonemia.fm,available,88.99,88.99,medium,l
 1b819cb2-de46-4af5-88a5-e901ef0c973b,christoph.fm,premium,,,medium,low,9,,,,28/09/2026 12:39
 82d7d420-0a94-44ec-b802-fbc4b04364e0,tangential.fm,available,69.98,118.98,medium,low,10,namecheap,,,14/08/2026 07:29
 b3673021-e074-4f9a-a87d-eb500f7a558f,bronchial.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/08/2026 05:35
+16e5cd4b-35c3-4240-8b54-a8dac299a2e0,garments.fm,available,67.98,87.72,medium,low,8,spaceship,,,30/09/2026 23:02
 315b6b7b-c834-4a30-9bc1-0821806328e9,balustrade.fm,available,88.99,88.99,high,low,10,namesilo,,,22/09/2026 00:29
 4d7ac091-faea-450a-a07e-f4f52fdd84b4,antigone.fm,available,88.99,88.99,high,low,8,namesilo,,,19/09/2026 14:26
 bea68933-32e8-43ea-b516-0d9d36c8fe2c,sadducean.fm,available,69.98,118.98,high,medium,9,namecheap,,,09/09/2026 20:42
@@ -123,7 +132,7 @@ c552e2f3-b6c4-4eb5-902f-3a26e046bd1f,xcii.fm,available,69.98,118.98,medium,low,4
 b7a18420-a346-4e2b-b4ef-c34425df167f,ascii.fm,premium,253.5,110.5,high,low,5,namecheap,,,18/09/2026 20:43
 b0e4d77e-cd28-414d-b56d-6fab46630155,represented.fm,available,88.99,88.99,high,low,11,namesilo,,,
 51532d08-d2c5-43c0-8ac1-29768231bc79,beaner.fm,available,69.98,118.98,medium,low,6,namecheap,,,22/09/2026 20:26
-32448ca2-b065-4359-8fdc-c2eaf8a80e4a,inflected.fm,available,69.98,118.98,high,low,9,namecheap,,,22/08/2026 04:31
+32448ca2-b065-4359-8fdc-c2eaf8a80e4a,inflected.fm,available,69.98,118.98,medium,low,9,namecheap,,,22/08/2026 04:31
 29c1aa2c-5bd9-4430-8b59-8247d3367db5,approach.fm,available,69.98,118.98,high,low,8,namecheap,,,06/08/2026 08:44
 a38c2543-6e09-4fd0-a458-4d52b4449d40,recession.fm,available,88.99,88.99,high,low,9,namesilo,,,27/09/2026 10:55
 e2aff3df-4c34-4f3f-b7cd-702e132e71fb,amusive.fm,available,69.98,118.98,high,low,7,namecheap,,,
@@ -135,7 +144,7 @@ acbb47fc-cd38-40cb-a924-0c6e46f985a7,unlit.fm,available,69.98,118.98,medium,low,
 4cf6c0fe-39fd-4975-a850-f0fb66aa8589,agincourt.fm,available,69.98,118.98,medium,low,9,namecheap,,,17/09/2026 17:59
 abba271f-681b-4b37-8666-c274e8d0bec7,streisand.fm,available,88.99,88.99,high,low,9,namesilo,,,22/09/2026 05:03
 58eece2a-77e8-4935-850f-5eac7dec403b,restrict.fm,available,88.99,88.99,medium,low,8,namesilo,,,19/09/2026 17:10
-29c29ca6-0c06-43a2-a071-677e7624cf49,cloaked.fm,available,69.98,118.98,high,low,7,namecheap,,,12/08/2026 11:28
+29c29ca6-0c06-43a2-a071-677e7624cf49,cloaked.fm,available,69.98,118.98,medium,low,7,namecheap,,,12/08/2026 11:28
 8c912eda-3704-4bce-887b-3eb07d767dc9,ruttish.fm,available,69.98,118.98,medium,low,7,namecheap,,,21/08/2026 14:10
 7f6d1adc-ff05-48ff-b4b0-db84655da62e,macabre.fm,premium,243.75,160.99,medium,low,7,name.com,,,18/08/2026 23:19
 14b04b86-8a10-4f09-912d-38d459f3f660,oslo.fm,premium,1029.83,87.98,high,low,4,spaceship,,,29/09/2026 06:45
@@ -144,16 +153,18 @@ abba271f-681b-4b37-8666-c274e8d0bec7,streisand.fm,available,88.99,88.99,high,low
 6e6be4c0-9da0-4375-a1a3-c62397faeb96,lower.fm,available,68.25,89.25,high,low,5,dynadot,,,29/09/2026 20:00
 f198fc48-3285-4c55-bd81-c4396eddcd91,trusts.fm,available,67.98,87.72,medium,low,6,spaceship,,,28/09/2026 18:18
 e72f3a36-b314-4e11-a115-96e68e722050,annulment.fm,available,88.99,88.99,medium,low,9,namesilo,,,16/09/2026 17:16
-da5e3170-6568-4a1f-87c7-ef7d0ecf0cf8,amman.fm,available,88.99,88.99,high,low,5,namesilo,,,18/09/2026 21:59
+da5e3170-6568-4a1f-87c7-ef7d0ecf0cf8,amman.fm,available,88.99,88.99,medium,low,5,namesilo,,,18/09/2026 21:59
 47440c6d-3f3b-471d-8038-a116d22c2b0c,mabel.fm,available,88.99,88.99,high,low,5,namesilo,,,25/09/2026 13:35
-0567f4c9-a767-43fc-b871-26a9c8f8708e,childless.fm,available,69.98,118.98,high,low,9,namecheap,,,12/08/2026 05:10
-eb5bcd9e-6188-45c7-b668-c65dd5c1cb07,slipping.fm,available,69.98,118.98,high,low,8,namecheap,,,10/09/2026 11:05
+0567f4c9-a767-43fc-b871-26a9c8f8708e,childless.fm,available,69.98,118.98,medium,low,9,namecheap,,,12/08/2026 05:10
+7c12c24a-491b-45e3-bb4c-aebb8e4b40ef,electrician.fm,available,67.98,87.72,high,low,11,spaceship,,,30/09/2026 04:08
+eb5bcd9e-6188-45c7-b668-c65dd5c1cb07,slipping.fm,available,69.98,118.98,medium,low,8,namecheap,,,10/09/2026 11:05
+f065090b-1175-4b7c-9451-67c833451b3d,grimsby.fm,available,67.98,87.72,medium,low,7,spaceship,,,30/09/2026 04:49
 5fd4e7bb-ef26-4427-81a7-ba9314273dd7,tosh.fm,available,88.99,88.99,medium,low,4,namesilo,,,21/09/2026 23:54
-564e2927-726b-422a-8593-25bc6641129d,elusive.fm,premium,243.75,160.99,high,low,7,name.com,,,08/08/2026 08:07
+564e2927-726b-422a-8593-25bc6641129d,elusive.fm,premium,243.75,160.99,medium,low,7,name.com,,,08/08/2026 08:07
 ca0c51c2-2589-411e-8018-ceecd20fa2a6,dorm.fm,available,99,160.99,high,low,4,name.com,,,24/09/2026 23:35
 cf3cdcd7-e08a-4a41-be44-acd6b584aa9b,soulful.fm,available,69.98,118.98,high,low,7,namecheap,,,10/09/2026 14:42
 f8857d79-d473-4f4a-9ac4-dc41ca76834b,margot.fm,available,67.98,87.72,high,low,6,spaceship,,,28/09/2026 21:14
-31d7fc1e-5ad8-45a8-99f3-da6109cc9c01,mendoza.fm,available,88.99,88.99,high,low,7,namesilo,,,27/09/2026 07:53
+31d7fc1e-5ad8-45a8-99f3-da6109cc9c01,mendoza.fm,available,88.99,88.99,medium,low,7,namesilo,,,27/09/2026 07:53
 762a1251-4ee0-434b-b1ac-35520f67a323,mirish.fm,available,69.98,118.98,medium,low,6,namecheap,,,16/09/2026 16:36
 daa25c04-1033-4879-bdd5-fe802404f164,improvise.fm,available,69.98,118.98,high,low,9,namecheap,,,21/09/2026 16:45
 ea666024-ff8a-435d-b0e3-59c891cc2845,hither.fm,available,69.98,118.98,medium,low,6,namecheap,,,15/09/2026 00:48
@@ -161,7 +172,7 @@ b16966b5-4595-4d12-ae5f-2be46ce22516,wain.fm,available,88.99,88.99,medium,low,4,
 d2a6c0a0-4108-4faa-b7f3-b8d036f76005,talented.fm,available,69.98,118.98,high,low,8,namecheap,,,18/08/2026 23:26
 cd92ab44-f6e2-4f99-bbc6-fd0fac7c88ed,beneficent.fm,available,69.98,118.98,medium,low,10,namecheap,,,09/08/2026 14:22
 d77c20e9-34f3-4c82-b574-7b69da8aece8,assignor.fm,available,69.98,118.98,medium,low,8,namecheap,,,20/09/2026 16:27
-f82b6401-6269-4648-a910-4472a98df93b,sundress.fm,available,99,,high,low,8,name.com,,,
+f82b6401-6269-4648-a910-4472a98df93b,sundress.fm,available,88.99,88.99,high,low,8,namesilo,,,30/09/2026 12:21
 390f297b-144e-419c-9d80-0eecdb357be7,kendrick.fm,available,88.99,88.99,medium,low,8,namesilo,,,28/09/2026 08:02
 a461a5b0-7306-4c45-b852-58e7ee4c6a30,struck.fm,available,69.98,118.98,medium,low,6,namecheap,,,10/09/2026 11:50
 f55e99af-83b0-4fbc-b602-3891bbf25e80,seriatim.fm,available,69.98,118.98,medium,low,8,namecheap,,,16/09/2026 01:10
@@ -171,7 +182,7 @@ f55e99af-83b0-4fbc-b602-3891bbf25e80,seriatim.fm,available,69.98,118.98,medium,l
 04828b96-22f8-4fd0-aa41-79abc59afb55,woven.fm,available,69.98,118.98,high,low,5,namecheap,,,28/09/2026 11:08
 d264c6d7-ddda-428c-a70e-bdd7082131ca,impacted.fm,available,69.98,118.98,medium,low,8,namecheap,,,21/08/2026 21:36
 2e657205-96ca-464b-a78c-72deddd4d943,tetragon.fm,available,69.98,118.98,medium,low,8,namecheap,,,09/09/2026 07:24
-8f9215e8-a399-4e29-9755-51f836edc8bd,neophyte.fm,available,69.98,118.98,high,low,8,namecheap,,,18/08/2026 07:34
+8f9215e8-a399-4e29-9755-51f836edc8bd,neophyte.fm,available,69.98,118.98,medium,low,8,namecheap,,,18/08/2026 07:34
 51ee9da8-85f5-41c2-9c48-bf4769329c17,synovial.fm,available,69.98,118.98,medium,low,8,namecheap,,,11/09/2026 06:37
 97890374-3cf9-499e-82ce-a7659470ce2e,totality.fm,available,69.98,118.98,high,low,8,namecheap,,,
 a61ebdc6-ce97-448f-91d7-df7a77fae488,incendiary.fm,premium,243.75,160.99,medium,low,10,name.com,,,22/08/2026 00:54
@@ -182,7 +193,8 @@ ec547538-7dfe-42e1-993c-4717b0081c9d,rihanna.fm,available,88.99,88.99,high,low,7
 1a7cf000-7156-41ca-afcf-ce6b01526e63,unsized.fm,available,69.98,118.98,low,low,7,namecheap,,,12/09/2026 20:00
 c587a102-d73e-4241-8be0-b0cbd208a0c1,idealized.fm,available,69.98,118.98,high,low,9,namecheap,,,21/08/2026 17:58
 384742fb-483e-4bab-9b26-c6ca4eabdfe8,antiphony.fm,available,69.98,118.98,medium,low,9,namecheap,,,19/09/2026 14:57
-f8f989df-ce04-4022-83b2-cd70d48072d3,rounds.fm,premium,249.6,102,high,low,6,namesilo,,,27/09/2026 02:23
+1727e828-73b4-4381-a842-d5db3e45eddd,pacing.fm,available,68.25,89.25,high,low,6,dynadot,,,01/10/2026 03:12
+f8f989df-ce04-4022-83b2-cd70d48072d3,rounds.fm,premium,249.6,102,medium,low,6,namesilo,,,27/09/2026 02:23
 37efae1e-05ca-4ded-958c-9d82b28991f2,forsyth.fm,available,87.85,87.85,high,low,7,porkbun,,,27/09/2026 21:08
 a59af71f-3aa6-49c1-8a2a-ff6ad154f857,filled.fm,available,69.98,118.98,high,low,6,namecheap,,,24/09/2026 18:13
 38cf0a92-daee-4356-9797-b410eabd582d,twoscore.fm,available,69.98,118.98,medium,low,8,namecheap,,,
@@ -204,10 +216,12 @@ f1ed44f8-0198-4635-86ce-8cd61626eb46,ladder.fm,available,88.99,88.99,high,low,6,
 1f899a00-f081-464a-862a-82f92c39306f,librarian.fm,available,88.99,88.99,high,low,9,namesilo,,,23/09/2026 12:54
 a38911f8-c0c9-4c9e-8b95-6c0344753107,dowding.fm,available,69.98,118.98,medium,low,7,namecheap,,,14/08/2026 17:10
 3090c53f-d96e-4811-8d18-8f391f790d55,cubby.fm,available,69.98,118.98,high,medium,5,namecheap,,,10/09/2026 12:51
+41f8ad91-7e92-4b12-abc0-f6cea84a0732,chennai.fm,premium,201.83,87.98,high,low,7,spaceship,,,30/09/2026 09:07
 99cb97d7-74ac-460a-b21a-e98006057a7a,punishment.fm,available,88.99,88.99,high,low,10,namesilo,,,25/09/2026 09:51
 8a6f71df-527c-4f4d-9825-330329472193,violently.fm,available,88.99,88.99,medium,low,9,namesilo,,,16/09/2026 11:00
 914ce6a6-f22a-4c7d-ad30-e00003073dbb,awning.fm,available,88.99,88.99,high,low,6,namesilo,,,21/09/2026 10:12
 7048d754-a5bf-43ba-a638-dfc590e38068,wimpy.fm,available,69.98,118.98,medium,low,5,namecheap,,,13/09/2026 12:06
+5ba39333-7470-4031-8ffd-163d1cdfd11f,elmo.fm,available,88.99,88.99,high,low,4,namesilo,,,30/09/2026 05:11
 8933b2bb-88bf-4b05-a911-e0f7db56696a,alpenstock.fm,available,69.98,118.98,medium,low,10,namecheap,,,18/09/2026 13:32
 843f60c8-902f-496a-ac77-28ccb5ca7ad0,athletic.fm,available,88.99,88.99,high,low,8,namesilo,,,21/09/2026 16:12
 9a778f8c-dfb2-4acb-a8b2-3506c0ffb79f,caesarean.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/08/2026 13:05
@@ -215,6 +229,7 @@ a38911f8-c0c9-4c9e-8b95-6c0344753107,dowding.fm,available,69.98,118.98,medium,lo
 5b28c898-a3ff-408e-b9d6-0e5199f141fd,sevener.fm,available,69.98,118.98,medium,low,7,namecheap,,,
 65132afa-5434-4873-a032-eb13fbe458e6,enumerate.fm,available,69.98,118.98,high,low,9,namecheap,,,03/09/2026 22:58
 489ff798-d648-4847-99e9-499e3a28924d,favourable.fm,available,88.99,88.99,high,low,10,namesilo,,,24/09/2026 17:24
+b1028a14-bdd1-4f63-8bd0-abad6a563186,mounts.fm,available,85,85,medium,low,6,cloudflare,,,01/10/2026 00:51
 ace58f44-c106-4953-89b7-ffde91a5564e,splendid.fm,premium,243.75,160.99,high,low,8,name.com,,,17/08/2026 16:04
 e9f8eefe-018d-44a1-807d-98559ba93435,endoscopic.fm,available,69.98,118.98,medium,low,10,namecheap,,,17/08/2026 01:19
 e9b34a27-56ac-479d-a27e-1ba366303d38,honourable.fm,available,69.98,118.98,high,low,10,namecheap,,,21/08/2026 13:34
@@ -222,33 +237,36 @@ e9b34a27-56ac-479d-a27e-1ba366303d38,honourable.fm,available,69.98,118.98,high,l
 11e674bf-a845-40e1-bfc5-e38d8d228d23,uprightly.fm,available,69.98,118.98,medium,low,9,namecheap,,,15/09/2026 01:06
 7b581c98-8635-4887-ac59-b353dafbf76e,amenities.fm,available,69.98,118.98,high,low,9,namecheap,,,18/09/2026 18:52
 597e3b83-5a5e-474f-950d-525fb0e8f877,megabucks.fm,available,88.99,88.99,high,low,9,namesilo,,,23/09/2026 14:11
-b8266bcd-9592-4fcd-94f7-c0a6e1c38cdb,vodka.fm,premium,243.75,,high,low,5,name.com,,,
+b8266bcd-9592-4fcd-94f7-c0a6e1c38cdb,vodka.fm,premium,253.5,110.5,high,low,5,namecheap,,,30/09/2026 14:34
 3aa4f409-7e2c-469c-a1d1-4e06aa20cdca,tray.fm,available,67.98,87.72,medium,low,4,spaceship,,,28/09/2026 11:01
 077f40ae-f293-47d4-b9f0-62be772e9659,octavo.fm,available,69.98,118.98,medium,low,6,namecheap,,,16/09/2026 12:43
 f35ef180-bbed-4901-81e3-ddf721e43a15,sinner.fm,available,67.98,87.72,medium,low,6,spaceship,,,29/09/2026 18:50
 afb9de31-49d1-4d0e-a9ff-f4796a2da5b3,pearce.fm,available,88.99,88.99,high,low,6,namesilo,,,29/09/2026 15:07
+3a1d0d9f-a025-4df6-b2a9-cceb147a27ad,lavinia.fm,available,85,85,high,low,7,cloudflare,,,30/09/2026 05:09
 b831af1a-e213-42ac-a821-52e98667d507,pieces.fm,available,69.98,118.98,high,low,6,namecheap,,,17/09/2026 19:58
 e5a224ed-aa56-4f03-aad6-71ee2795fe32,roosevelt.fm,available,88.99,88.99,high,low,9,namesilo,,,19/09/2026 09:58
 26fc1905-dc08-411e-ab21-8a309bd118a5,defraud.fm,available,69.98,118.98,medium,low,7,namecheap,,,14/09/2026 08:02
 365cd6e0-cb90-4c41-be9e-51794bc32465,dishwasher.fm,available,68.25,89.25,high,low,10,dynadot,,,29/09/2026 15:53
 65eb2ce1-3f47-4807-8c59-8b6811196358,wing.fm,available,88.99,88.99,high,low,4,namesilo,,,22/09/2026 15:49
 82ece3e9-cf5d-475b-9c2a-5c6ffbb0b146,unfed.fm,available,69.98,118.98,medium,low,5,namecheap,,,12/09/2026 10:04
-f53767a8-63cd-43df-beaa-c4a7c842f025,zanzibar.fm,available,88.99,88.99,high,low,8,namesilo,,,
+f53767a8-63cd-43df-beaa-c4a7c842f025,zanzibar.fm,available,88.99,88.99,high,low,8,namesilo,,,30/09/2026 14:48
 4b04b2fe-80b2-4521-acd0-38ee158023eb,malar.fm,available,69.98,118.98,medium,low,5,namecheap,,,13/09/2026 15:43
 4e1547ab-6853-4ad0-9376-beb857e6ee69,prettiest.fm,available,88.99,88.99,medium,low,9,namesilo,,,18/09/2026 03:32
 2930b122-cfe9-4097-b2e0-a1870228074e,horsepower.fm,available,85,85,high,low,10,cloudflare,,,29/09/2026 19:06
 af95e42c-624d-4527-9ee5-ba9efce11355,horseback.fm,available,69.98,118.98,high,low,9,namecheap,,,21/09/2026 23:38
 b2c4fffe-43aa-431e-aecc-0597500977b9,ado.fm,premium,249.6,102,high,low,3,namesilo,,,17/09/2026 09:17
-7b833a6e-a7a1-4e43-a8bd-19cfc0e5db8e,aptly.fm,available,69.98,118.98,high,low,5,namecheap,,,13/09/2026 16:19
+978b2c90-5a94-4117-859f-19a8bc802e81,inflict.fm,available,68.25,89.25,high,low,7,dynadot,,,30/09/2026 03:14
+7b833a6e-a7a1-4e43-a8bd-19cfc0e5db8e,aptly.fm,available,69.98,118.98,medium,low,5,namecheap,,,13/09/2026 16:19
 3015eeb2-b02c-44ff-8d4c-44f864a65eaf,comb.fm,available,88.99,88.99,high,low,4,namesilo,,,24/09/2026 16:22
 7538eb6b-7fd1-4d0f-9dfe-041569b975a3,urinate.fm,available,69.98,118.98,medium,low,7,namecheap,,,13/09/2026 09:41
 fae7f3df-095b-4470-9408-4b9475d3179a,argonne.fm,available,88.99,88.99,medium,low,7,namesilo,,,20/09/2026 04:36
 d543dc73-6f74-4d54-a224-25077ae748f7,unicorns.fm,available,88.99,88.99,high,low,8,namesilo,,,
 85ba3eed-8f65-4851-a0e0-dbb17d150689,semifinal.fm,available,88.99,88.99,high,low,10,namesilo,,,16/09/2026 09:45
 4c7a2352-a911-4940-83b9-909b2afd7ddb,crochet.fm,available,88.99,88.99,high,low,7,namesilo,,,24/09/2026 19:40
+2e2a7ef2-2dd8-4df3-bcd4-a360bc951c1a,asm.fm,premium,201.83,87.98,high,low,3,spaceship,,,30/09/2026 06:15
 c3515653-b0ec-49c0-8ced-3cb8b78764dd,clovers.fm,available,88.99,88.99,medium,low,7,namesilo,,,21/09/2026 06:52
 0f925b2a-948e-4364-ab90-75a3d98069e5,murmuring.fm,available,69.98,118.98,high,low,9,namecheap,,,03/09/2026 11:06
-7473d24b-e722-418c-9336-e773b2a10e77,peaked.fm,available,87.85,87.85,high,low,6,porkbun,,,29/09/2026 21:11
+7473d24b-e722-418c-9336-e773b2a10e77,peaked.fm,available,87.85,87.85,medium,low,6,porkbun,,,29/09/2026 21:11
 e4318e17-1157-4187-953e-17bf780b5408,postbox.fm,available,88.99,88.99,high,low,8,namesilo,,,
 d3502030-5e23-4ab2-9ad6-282beba6d9f0,venial.fm,available,69.98,118.98,medium,low,6,namecheap,,,18/08/2026 12:00
 603bf3fb-da0a-4e5f-a714-ed09aaf61bb0,ailanthus.fm,available,69.98,118.98,medium,low,9,namecheap,,,17/09/2026 21:07
@@ -256,14 +274,15 @@ d3502030-5e23-4ab2-9ad6-282beba6d9f0,venial.fm,available,69.98,118.98,medium,low
 f507543f-f0b9-4a05-bc82-b9a4b47592c2,daytona.fm,available,67.98,87.72,high,low,7,spaceship,,,28/09/2026 04:21
 e502a9c9-264a-477e-a4eb-a9a8e4bd5fb5,accidentally.fm,available,88.99,88.99,medium,low,12,namesilo,,,28/09/2026 03:20
 b5563ec6-41be-403b-b8a4-83b39b8ca2f2,mahmud.fm,available,88.99,88.99,medium,low,6,namesilo,,,28/09/2026 22:18
-4983a346-5295-403d-abda-fe3d93dfbad9,longitude.fm,available,88.99,88.99,high,low,9,namesilo,,,
+4983a346-5295-403d-abda-fe3d93dfbad9,longitude.fm,available,67.98,87.72,high,low,9,spaceship,,,30/09/2026 03:11
 8a2409d2-60ad-4682-a53e-bdecb992a3c1,unnoted.fm,available,69.98,118.98,medium,low,7,namecheap,,,04/09/2026 21:08
 dec4dc4c-37fb-474d-bbe0-8e1491fd8407,palmerston.fm,available,88.99,88.99,medium,low,10,namesilo,,,28/09/2026 16:40
 c91b2ea4-75a6-4208-9fa7-06ef158e14ea,zoomed.fm,available,88.99,88.99,medium,low,6,namesilo,,,18/09/2026 03:48
 149641c7-2e88-4bf6-be61-53ddffa8b033,weakness.fm,available,69.98,118.98,medium,low,8,namecheap,,,17/08/2026 20:45
 63802ffb-d226-41f0-be96-f1c82f33ab9b,portent.fm,available,69.98,118.98,medium,low,7,namecheap,,,09/09/2026 02:55
 e55a53a7-a27e-4a19-aec2-849cade77ba9,marang.fm,available,88.99,88.99,high,low,6,namesilo,,,20/09/2026 12:01
-4df81904-2340-45d1-b90e-ef0ca854c045,doubting.fm,available,69.98,118.98,high,low,8,namecheap,,,14/08/2026 17:01
+4df81904-2340-45d1-b90e-ef0ca854c045,doubting.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/08/2026 17:01
+704673f4-4c8c-46c3-ba7f-63f6902ff3c6,periodically.fm,available,88.99,88.99,medium,low,12,namesilo,,,30/09/2026 14:44
 794c1251-8254-4b96-baf9-f1f8b3c29815,belching.fm,available,88.99,88.99,medium,low,8,namesilo,,,23/09/2026 04:36
 b8676ea2-fe29-48ad-8c37-b2f40d6ce653,empirical.fm,available,69.98,118.98,high,low,9,namecheap,,,16/08/2026 18:21
 eefb7485-7348-4efb-8a38-932062cd1d2d,lunchtime.fm,available,88.99,88.99,high,low,10,namesilo,,,
@@ -271,10 +290,11 @@ eefb7485-7348-4efb-8a38-932062cd1d2d,lunchtime.fm,available,88.99,88.99,high,low
 dc3e0cd7-7508-49a6-a5bc-fb8ac8deab77,aphelion.fm,available,88.99,88.99,medium,low,8,namesilo,,,19/09/2026 16:55
 2151371a-0dff-4dc2-b5a3-9fb48a3c2ffe,rhyming.fm,available,69.98,118.98,high,low,7,namecheap,,,09/09/2026 16:53
 9659f2f7-f0c1-4320-a982-a3c2298dd142,burial.fm,available,88.99,88.99,medium,low,6,namesilo,,,24/09/2026 11:18
-d386a00b-6757-4bae-8568-26147ca79c86,blyth.fm,available,88.99,88.99,high,low,5,namesilo,,,29/09/2026 22:39
+d386a00b-6757-4bae-8568-26147ca79c86,blyth.fm,available,88.99,88.99,medium,low,5,namesilo,,,29/09/2026 22:39
 7058b3f7-08ff-4352-96b8-de4edf83af40,heroine.fm,available,88.99,88.99,high,low,7,namesilo,,,29/09/2026 07:16
 7252e477-d766-4a2f-aa77-14236ddc3457,planetal.fm,available,69.98,118.98,medium,low,8,namecheap,,,08/09/2026 20:42
 2827dc58-bd38-4e26-9612-099ec7692746,trumpery.fm,available,69.98,118.98,medium,low,8,namecheap,,,18/08/2026 23:50
+9c0bdccd-5ea6-4bfd-b45f-8731c2395f15,wreath.fm,available,88.99,88.99,high,low,6,namesilo,,,30/09/2026 16:41
 6defbba8-e74c-45f7-bda5-3134d605f9d8,award.fm,available,88.99,88.99,high,low,5,namesilo,,,27/09/2026 06:31
 d080034d-4cee-43fd-9db9-43fb62916d27,auschwitz.fm,available,88.99,88.99,medium,low,9,namesilo,,,21/09/2026 04:35
 ac4114c5-7d6c-47b8-bc26-1ce0ad78a9f5,occurrence.fm,available,88.99,88.99,high,low,10,namesilo,,,25/09/2026 23:56
@@ -288,7 +308,7 @@ e644a846-4ca4-4425-a554-0d6cbcbe9ba0,lacing.fm,available,69.98,118.98,medium,low
 43244274-3766-4df2-8bfc-afca35e2856f,forgo.fm,available,69.98,118.98,high,low,5,namecheap,,,18/08/2026 11:51
 56481f52-9e6e-40e3-af2e-2038032cad93,shit.fm,premium,1293.5,110.5,high,medium,4,namecheap,,,22/09/2026 18:05
 bc2ea19f-8066-4f0c-8df7-5bd7f1a932fb,tomboy.fm,available,99,,high,low,7,name.com,,,
-b2229fec-fd2d-4313-9553-f71a0693dddc,flawed.fm,available,69.98,118.98,high,low,6,namecheap,,,18/08/2026 07:18
+b2229fec-fd2d-4313-9553-f71a0693dddc,flawed.fm,available,69.98,118.98,medium,low,6,namecheap,,,18/08/2026 07:18
 98c5681e-898b-43e7-a53d-81535591dc7d,lorna.fm,available,87.85,87.85,medium,low,5,porkbun,,,29/09/2026 15:29
 0e6a88ec-3c61-4552-90f2-046855d4a203,deliveries.fm,available,88.99,88.99,medium,low,10,namesilo,,,29/09/2026 11:38
 9e60feb5-bba3-43b6-910d-cf57ff9b05be,higgins.fm,available,99,160.99,high,low,7,name.com,,,25/09/2026 13:27
@@ -298,21 +318,25 @@ b7f0e0cc-b64d-4ae2-b70a-25672cff23a4,anthurium.fm,available,88.99,88.99,high,low
 91795af8-4e10-4123-b0bf-ff3e0e17ecd9,nude.fm,premium,1243.75,160.99,high,low,4,name.com,,,07/08/2026 16:15
 74854d43-9ec4-40f8-8241-faa144100ba5,adlumia.fm,available,88.99,88.99,medium,low,7,namesilo,,,17/09/2026 08:37
 efc6b5d1-6423-4a00-99e6-38782331436f,provident.fm,available,69.98,118.98,high,low,9,namecheap,,,09/09/2026 04:35
+762a1196-8fe3-46fb-9b3d-4a3a131f1484,arteries.fm,available,88.99,88.99,medium,low,8,namesilo,,,30/09/2026 06:28
 c3d583e4-40de-468d-94a6-ae0b952b987b,figuring.fm,available,85,85,high,low,8,cloudflare,,,29/09/2026 12:20
 81a528fc-23da-4a88-aa93-817c13b8199d,floods.fm,available,69.98,118.98,low,low,6,namecheap,,,18/09/2026 19:03
-047a85e5-c12a-462b-ab7c-a086ab499814,migrate.fm,available,88.99,88.99,high,low,7,namesilo,,,
+047a85e5-c12a-462b-ab7c-a086ab499814,migrate.fm,available,67.98,87.72,high,low,7,spaceship,,,30/09/2026 20:34
 a453ad6a-78d4-4146-a89e-de9ad7eed1ff,boarded.fm,available,88.99,88.99,high,low,7,namesilo,,,
-3899ec40-ad8f-4709-bbff-46206f38b6e2,handed.fm,available,69.98,118.98,high,low,6,namecheap,,,20/08/2026 23:25
+3899ec40-ad8f-4709-bbff-46206f38b6e2,handed.fm,available,69.98,118.98,medium,low,6,namecheap,,,20/08/2026 23:25
 d56bcd05-47ee-4dbc-a61e-f41b6b032371,travels.fm,premium,1273.6,102,high,low,7,namesilo,,,17/09/2026 06:44
 602b5bec-6a91-4d58-8168-ddc57c933db4,superhero.fm,premium,253.5,110.5,high,low,9,namecheap,,,16/09/2026 20:24
+4904f756-7c54-49a7-98b2-025be84bb667,beauties.fm,available,67.98,87.72,medium,low,8,spaceship,,,30/09/2026 23:49
 f69c166a-f940-40d8-b962-8fd89c317a0b,fall.fm,available,69.98,118.98,high,low,4,namecheap,,,28/09/2026 09:35
 1f4bc889-65f4-4257-902f-3a63c3b71a37,zovirax.fm,available,88.99,88.99,medium,low,7,namesilo,,,17/09/2026 05:42
+9e82933f-c3e8-45eb-b343-e3fd517ff295,expressway.fm,available,88.99,88.99,high,low,10,namesilo,,,30/09/2026 17:16
 ae63004f-3493-40fe-bffe-4d461a530986,popularity.fm,available,88.99,88.99,high,low,10,namesilo,,,28/09/2026 10:44
 07316a02-8620-4d9f-b977-e9d7e0b1ca89,complication.fm,available,88.99,88.99,medium,low,12,namesilo,,,29/09/2026 23:25
 94b3193b-daaa-47e0-8026-d727742f7ca8,jumping.fm,available,69.98,118.98,high,low,7,namecheap,,,08/09/2026 06:49
-00d26087-3b37-4504-a768-525d6d83cc86,arugula.fm,available,69.98,118.98,high,low,7,namecheap,,,20/09/2026 12:10
+00d26087-3b37-4504-a768-525d6d83cc86,arugula.fm,available,69.98,118.98,medium,low,7,namecheap,,,20/09/2026 12:10
 8a2a2aac-1a79-4922-a0a3-b568fa71a871,nigger.fm,available,69.98,118.98,high,medium,6,namecheap,,,29/09/2026 19:25
 66079e9b-0ad1-4a31-ac6f-706fafb28a12,clifton.fm,available,69.98,118.98,medium,low,7,namecheap,,,25/09/2026 19:29
+e0a74c3a-b30b-4c7e-8d0e-b65d80935c40,rapper.fm,premium,213.18,93.1,high,low,6,porkbun,,,30/09/2026 09:22
 5f6f071b-dfce-4d16-9a86-e644abd5657d,hardest.fm,available,88.99,88.99,low,low,7,namesilo,,,28/09/2026 12:52
 566168db-df88-40e0-a24b-00526b0dbd44,sesotho.fm,available,88.99,88.99,medium,low,7,namesilo,,,22/09/2026 13:00
 0d464278-99e6-4a63-a8e4-a8c22d04e225,clan.fm,available,69.98,118.98,high,low,4,namecheap,,,22/08/2026 16:05
@@ -328,32 +352,37 @@ ad2df422-efef-4eda-a77b-cee90d79146a,doubts.fm,available,87.85,87.85,low,low,6,p
 76033665-4627-4541-9d17-d363bb0d6339,finlay.fm,available,88.99,88.99,medium,low,6,namesilo,,,29/09/2026 15:27
 cc0edf9c-6774-425d-97e1-862c30da2dfe,monatomic.fm,available,69.98,118.98,medium,low,9,namecheap,,,25/08/2026 04:12
 9ea790b7-0667-46d5-8dee-18228fbe739e,least.fm,premium,249.6,102,high,low,5,namesilo,,,25/09/2026 13:24
+ab03bc10-93a8-4709-9708-31bf2087f9a4,ellery.fm,available,85,85,medium,low,6,cloudflare,,,30/09/2026 13:23
+ac340d98-41cf-474f-b153-391b083f7faf,algernon.fm,available,87.85,87.85,medium,low,8,porkbun,,,30/09/2026 21:13
 2bbccd9a-063f-454d-813c-ed133e3e0dc3,pilar.fm,available,69.98,118.98,high,medium,5,namecheap,,,08/09/2026 19:37
 6948d875-5578-43f1-8395-a60d00ceab74,observing.fm,available,69.98,118.98,high,low,9,namecheap,,,04/09/2026 00:01
-afc46f7b-7ecf-4c6a-88a3-e6ec3eb19650,poetically.fm,available,69.98,118.98,high,low,10,namecheap,,,15/09/2026 20:51
+afc46f7b-7ecf-4c6a-88a3-e6ec3eb19650,poetically.fm,available,69.98,118.98,medium,low,10,namecheap,,,15/09/2026 20:51
 b15fdaf9-4172-4fcc-8eab-b4e29a8193fe,verbally.fm,available,88.99,88.99,medium,low,8,namesilo,,,16/09/2026 10:50
 0178de98-ae9b-4e99-a832-87d2cd10e8ad,kraus.fm,available,85,85,medium,low,5,cloudflare,,,29/09/2026 03:34
 bf3603c3-3982-4571-8a1a-bb0c7728b056,multiplayer.fm,available,99,,high,low,11,name.com,,,
+faabf8cb-067b-4d16-96cf-ea572f109e7c,socorro.fm,available,88.99,88.99,medium,low,7,namesilo,,,30/09/2026 21:57
 2c4cd5f8-edf8-4449-a33a-60f15519f8f7,toss.fm,available,69.98,118.98,high,low,4,namecheap,,,18/08/2026 08:30
 732ff28e-63da-431f-a206-62840abe9095,argo.fm,available,88.99,88.99,high,low,4,namesilo,,,20/09/2026 04:30
 029f11dd-3d2a-424a-b01b-da5e8190e423,clovis.fm,available,88.99,88.99,medium,low,6,namesilo,,,29/09/2026 00:26
 01689f43-35c9-4731-a523-62b320da4076,leagues.fm,available,67.98,87.72,medium,low,7,spaceship,,,29/09/2026 11:01
 1bc7fc63-fe4a-4c87-ad39-aaf0f318c4a9,laminar.fm,available,69.98,118.98,high,low,7,namecheap,,,22/08/2026 19:07
-538e9043-1e16-4b12-a86e-94e1fd011817,sounded.fm,available,88.99,88.99,high,low,7,namesilo,,,
+538e9043-1e16-4b12-a86e-94e1fd011817,sounded.fm,available,88.99,88.99,medium,low,7,namesilo,,,
 2b474aca-846f-4ab0-b4bc-6c466511d951,accentor.fm,available,88.99,88.99,medium,low,8,namesilo,,,16/09/2026 21:58
 5075f93a-26d8-4c39-b294-63992bb01534,critter.fm,available,69.98,118.98,high,low,7,namecheap,,,24/09/2026 19:33
 0b0bcad0-84d4-4cb2-9d45-c3b7d44ad73f,sighs.fm,available,67.98,87.72,medium,low,5,spaceship,,,30/09/2026 00:18
 97f5d0a3-d554-4aa6-b08b-4e6abaf3192c,acrobatic.fm,available,69.98,118.98,high,low,9,namecheap,,,
 70b2c0ec-f456-457f-8609-e60cce9879cb,aspinwall.fm,available,88.99,88.99,medium,low,9,namesilo,,,20/09/2026 15:18
-783b64c5-0c32-48e7-b279-4c6ed7439286,culturally.fm,available,69.98,118.98,high,low,10,namecheap,,,14/09/2026 09:57
+783b64c5-0c32-48e7-b279-4c6ed7439286,culturally.fm,available,69.98,118.98,medium,low,10,namecheap,,,14/09/2026 09:57
 2a889d2f-d4b6-4239-b7df-543d9b916274,sunburn.fm,available,69.98,118.98,high,low,7,namecheap,,,11/09/2026 07:53
-6d577d44-eafe-4702-8c60-1b2fd794c6de,freaking.fm,available,88.99,88.99,medium,low,8,namesilo,,,
+6d577d44-eafe-4702-8c60-1b2fd794c6de,freaking.fm,available,85,85,medium,low,8,cloudflare,,,01/10/2026 05:49
 0e938fd4-91f1-413e-a53a-4b9f98ee97a0,backing.fm,available,88.99,88.99,high,low,7,namesilo,,,21/09/2026 15:39
 7c1ca91d-9ec6-4024-8bb8-79f728491a84,shuttle.fm,premium,214.5,89.25,high,low,7,dynadot,,,27/09/2026 15:53
+3a361ab8-4cfc-4382-b5a9-d1d50bee180d,linde.fm,available,68.25,89.25,high,high,5,dynadot,,,01/10/2026 00:27
 e231a392-7a23-4fa5-b79c-2edacf10c1b8,benefits.fm,available,88.99,88.99,medium,low,8,namesilo,,,27/09/2026 23:08
 82c44f3c-198f-4ade-8224-6e0d96efcd3a,torment.fm,available,69.98,118.98,medium,low,7,namecheap,,,14/08/2026 21:14
 b35b884a-289d-45bf-954c-4dd3a927afa4,beanbag.fm,available,69.98,118.98,high,low,7,namecheap,,,22/09/2026 20:20
 8b02fcb6-42c8-4c55-a9f8-ffc3e151397d,coalesced.fm,available,69.98,118.98,medium,low,9,namecheap,,,
+2ab581e4-58b3-4a2d-8c07-4dfe9685927b,installment.fm,available,85,85,high,low,11,cloudflare,,,30/09/2026 19:52
 9ec279ef-50d4-4c10-81b8-4a891f068152,sufferer.fm,available,69.98,118.98,medium,low,8,namecheap,,,24/09/2026 22:36
 d18a6247-320a-46a9-9f0f-c02a08ec628d,amiably.fm,available,69.98,118.98,medium,low,7,namecheap,,,13/09/2026 17:50
 4ff6398e-35bb-4c77-b10f-0af4b910343e,charily.fm,available,69.98,118.98,medium,low,7,namecheap,,,14/09/2026 06:17
@@ -371,6 +400,8 @@ be2fcf62-c9eb-4131-af66-292d6111d0bd,mexicana.fm,available,85,85,high,low,8,clou
 95a1ba3a-60ae-49fb-8c5b-73468ab027b1,estimates.fm,available,69.98,118.98,medium,low,9,namecheap,,,20/09/2026 04:10
 484c2431-aac0-49d0-8a2f-fae521dec573,pdp.fm,available,87.85,87.85,high,low,3,porkbun,,,28/09/2026 21:36
 b0a44e78-11a2-4b64-aede-667afbce4915,rehabs.fm,available,88.99,88.99,medium,low,6,namesilo,,,20/09/2026 09:43
+994649cb-a847-4f4a-9682-081d4a8b8c5d,swindon.fm,available,88.99,88.99,medium,low,7,namesilo,,,30/09/2026 13:15
+13e49ca7-785c-4bac-8d90-ec19a395b8d8,gotha.fm,available,67.98,87.72,medium,low,5,spaceship,,,30/09/2026 13:38
 9fba3a44-6e94-4616-9620-7e2d84629ef3,extinction.fm,available,67.98,87.72,high,low,10,spaceship,,,29/09/2026 13:38
 4d117ab6-c4e7-46ba-bf2f-fbcff129d9de,syllabic.fm,available,69.98,118.98,high,low,8,namecheap,,,11/09/2026 05:58
 2924bd9f-9bae-418c-b6e1-cbe4247546f7,cheeky.fm,premium,243.75,160.99,high,low,6,name.com,,,11/08/2026 02:26
@@ -378,13 +409,13 @@ b0a44e78-11a2-4b64-aede-667afbce4915,rehabs.fm,available,88.99,88.99,medium,low,
 40d80089-63cb-427d-843e-6acc3a4631b7,chapped.fm,available,69.98,118.98,medium,low,7,namecheap,,,12/08/2026 02:20
 7d3e4a5e-be85-406b-a9c6-6b1798edcfbf,differently.fm,available,88.99,88.99,medium,low,11,namesilo,,,26/09/2026 03:11
 48b7174f-e5ee-4a2b-8809-a23577377844,iatrogenic.fm,available,69.98,118.98,medium,low,10,namecheap,,,21/08/2026 17:30
-8cbe1069-7e36-44c1-b855-2796ca65d9cb,feldman.fm,available,85,85,high,low,7,cloudflare,,,27/09/2026 20:17
+8cbe1069-7e36-44c1-b855-2796ca65d9cb,feldman.fm,available,85,85,medium,low,7,cloudflare,,,27/09/2026 20:17
 d933634b-d2cf-474f-aa1c-dc211d550f47,prow.fm,available,69.98,118.98,medium,low,4,namecheap,,,18/08/2026 11:28
 1922aa50-16ea-4842-ac4d-f828b4579423,azonic.fm,available,69.98,118.98,medium,low,6,namecheap,,,08/08/2026 02:32
 b99a72c8-1988-4502-badf-6216fc692778,aeration.fm,available,88.99,88.99,high,low,8,namesilo,,,17/09/2026 12:46
 4954dc32-3811-4319-a3bf-8b95c562fc29,inclined.fm,available,68.25,89.25,medium,low,8,dynadot,,,28/09/2026 21:12
 7ba1636c-1aa6-49b0-ad09-78759181a3a6,lxiv.fm,available,69.98,118.98,medium,low,4,namecheap,,,
-aa03d347-e8f3-4d37-a5c9-98a5970677ba,emmanuel.fm,available,88.99,88.99,high,low,8,namesilo,,,27/09/2026 03:07
+aa03d347-e8f3-4d37-a5c9-98a5970677ba,emmanuel.fm,available,88.99,88.99,medium,low,8,namesilo,,,27/09/2026 03:07
 629fd25b-9cbf-4c82-88f3-06ee79d65735,plutonium.fm,available,88.99,88.99,high,low,9,namesilo,,,21/09/2026 00:12
 070257d2-e249-45cf-b212-cc8f7eb514cd,institute.fm,available,88.99,88.99,high,low,9,namesilo,,,28/09/2026 06:02
 5925d2c7-41da-4d86-97f2-c758236bf6c2,tubular.fm,premium,243.75,160.99,medium,low,7,name.com,,,11/08/2026 17:14
@@ -397,16 +428,20 @@ e9dd25ba-9137-446b-ab3c-0d7d88ef4d65,conventionally.fm,available,99,,medium,low,
 a5ba75af-2d7e-4915-99b1-1a74def21fbe,critic.fm,premium,249.6,102,high,low,6,namesilo,,,29/09/2026 12:01
 4ed22616-46df-4722-894c-e6288f2c7b2e,orphanage.fm,available,85,85,medium,low,9,cloudflare,,,28/09/2026 10:38
 43211294-f15c-4832-8844-953b44034188,naseby.fm,available,88.99,88.99,medium,low,6,namesilo,,,22/09/2026 15:31
-68c12f45-c3f9-4220-9bdf-1ede09176fd7,hearable.fm,available,69.98,118.98,high,low,8,namecheap,,,07/08/2026 16:35
+68c12f45-c3f9-4220-9bdf-1ede09176fd7,hearable.fm,available,69.98,118.98,medium,low,8,namecheap,,,07/08/2026 16:35
 cc4b9efd-0418-403a-8ff4-8029dc98314e,alienor.fm,available,88.99,88.99,medium,low,7,namesilo,,,18/09/2026 07:41
 35c4d4f2-44d3-4bdb-ba6b-947a3dc67b86,cosher.fm,available,69.98,118.98,medium,low,6,namecheap,,,13/08/2026 02:47
-622645f5-a653-4774-a090-324bd07cd5d4,hostile.fm,available,88.99,88.99,high,low,7,namesilo,,,25/09/2026 00:05
+622645f5-a653-4774-a090-324bd07cd5d4,hostile.fm,available,88.99,88.99,medium,low,7,namesilo,,,25/09/2026 00:05
+8c6c34d6-8492-4cda-a1d4-57de30d67955,bds.fm,available,88.99,88.99,high,low,3,namesilo,,,30/09/2026 05:27
 d4a82c63-7cc2-4494-9328-ea6a5844a8c9,tyres.fm,available,69.98,118.98,medium,low,5,namecheap,,,20/09/2026 19:00
 198df84b-ca49-4c4b-aee1-b34eed923107,dermal.fm,available,99,160.99,high,low,6,name.com,,,13/08/2026 13:00
 2732453e-8299-43dd-b923-cc82d0746e4c,gordian.fm,available,69.98,118.98,medium,low,7,namecheap,,,20/08/2026 17:03
 8fa2840b-8f78-4c4d-93ea-601734197456,parasites.fm,available,88.99,88.99,medium,low,9,namesilo,,,29/09/2026 22:54
+079188be-def3-46e2-9954-1763d864e6ee,arises.fm,available,67.98,87.72,low,low,6,spaceship,,,30/09/2026 07:05
 45e8733e-8cce-41e9-8190-e4b9a58c5b81,guarantees.fm,available,67.98,87.72,medium,low,10,spaceship,,,29/09/2026 11:28
+b26a2e67-3804-4e29-8a5e-d52f3b54e7c1,mersey.fm,available,85,85,high,low,6,cloudflare,,,30/09/2026 13:10
 0e01af1a-79e1-486c-ba88-888a40ef92ba,wwii.fm,available,67.98,87.72,medium,low,4,spaceship,,,28/09/2026 07:36
+1466d386-d4e9-4e90-acf3-c10bbdd21638,waved.fm,available,69.98,118.98,high,low,5,namecheap,,,30/09/2026 03:45
 b362cc3d-aa68-4948-b8d9-2adb5a5c423b,pendulous.fm,available,69.98,118.98,medium,low,9,namecheap,,,12/08/2026 00:50
 e366fd3a-1332-4418-bf2b-fb7792861c41,obamacare.fm,available,88.99,88.99,medium,low,10,namesilo,,,
 029a7e83-2abd-4257-9820-2e6f1a895d04,grandmothers.fm,available,69.98,118.98,medium,low,12,namecheap,,,20/09/2026 18:06
@@ -414,6 +449,7 @@ e366fd3a-1332-4418-bf2b-fb7792861c41,obamacare.fm,available,88.99,88.99,medium,l
 874af34a-1dfe-4641-8e8b-04d098a20850,screened.fm,available,87.85,87.85,medium,low,8,porkbun,,,30/09/2026 00:45
 4ef4c16c-c165-4f4b-9cfd-302fe431abe9,abampere.fm,available,88.99,88.99,medium,low,8,namesilo,,,16/09/2026 13:54
 be01c68b-8888-4d44-9112-655367122276,mesonic.fm,available,69.98,118.98,medium,low,7,namecheap,,,24/08/2026 21:09
+f712921e-d856-48b4-b5ac-f71166121afb,dissertation.fm,available,85,85,high,low,12,cloudflare,,,30/09/2026 03:22
 3f0c74df-e18d-4006-a553-2a9d908d750d,imprecise.fm,available,69.98,118.98,medium,low,9,namecheap,,,21/08/2026 23:00
 7ed71100-4618-4334-a955-d1ca06c48954,importance.fm,available,85,85,high,low,10,cloudflare,,,29/09/2026 21:24
 896d39b5-7458-45d3-a0ac-9af21ba41f51,unsubtle.fm,available,69.98,118.98,medium,low,8,namecheap,,,12/09/2026 20:46
@@ -427,6 +463,7 @@ f49157ec-68ac-4c18-ad54-bdde24161c5b,completing.fm,available,88.99,88.99,high,lo
 d74bd3af-0b97-4acc-89ce-27c510a349cd,theropod.fm,available,69.98,118.98,medium,low,8,namecheap,,,23/09/2026 19:39
 82068cd1-42de-4c7e-a8d9-fc80adce3a44,lutz.fm,available,88.99,88.99,medium,low,4,namesilo,,,28/09/2026 15:40
 07f6769c-335a-4c38-911b-092675454dbd,outfits.fm,available,69.98,118.98,medium,low,7,namecheap,,,28/09/2026 23:41
+df5e1bc5-1a6c-4a68-9a3e-b2ab279d9021,crenshaw.fm,available,88.99,88.99,high,low,8,namesilo,,,30/09/2026 04:24
 254cc1e5-6718-4752-b856-b3ba076fad20,vertically.fm,available,99,160.99,medium,low,10,name.com,,,16/09/2026 10:53
 adc6895f-f4d0-4035-ab91-a2d35804737e,milan.fm,premium,249.6,102,high,low,5,namesilo,,,29/09/2026 07:37
 5166daf3-87fa-4504-908d-e829c2afc958,pampering.fm,available,69.98,118.98,high,low,9,namecheap,,,05/09/2026 00:29
@@ -460,12 +497,13 @@ b7a48f91-6869-4ca6-ba66-ba7839ada479,bonny.fm,available,69.98,118.98,medium,low,
 4fc752ee-2a0f-49f2-9d55-93b790f1c942,palmy.fm,available,69.98,118.98,medium,low,5,namecheap,,,10/08/2026 19:15
 9c64a157-4217-4706-a73d-97a81cba52d4,emil.fm,available,88.99,88.99,high,low,4,namesilo,,,25/09/2026 15:33
 25ec88f5-dc48-4deb-8519-ff5a078b9467,stud.fm,available,88.99,88.99,high,low,4,namesilo,,,24/09/2026 23:35
-353abd43-5602-44ad-ba74-9ead975b0896,boned.fm,available,69.98,118.98,high,low,5,namecheap,,,10/08/2026 18:34
+353abd43-5602-44ad-ba74-9ead975b0896,boned.fm,available,69.98,118.98,medium,low,5,namecheap,,,10/08/2026 18:34
 bfcdb084-83d0-4478-baee-c120c0f92ae8,enduring.fm,available,69.98,118.98,high,low,8,namecheap,,,
 f809f70e-cd1a-402e-b4e8-46e3145fe740,capricorn.fm,available,88.99,88.99,high,low,9,namesilo,,,24/09/2026 12:40
 cc9f3de4-8d73-457a-a57f-dcc0ddf87cff,weedless.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/09/2026 10:00
 1d2b3e01-35c3-4ec4-950e-2a8669805374,acad.fm,available,69.98,118.98,high,low,4,namecheap,,,29/09/2026 10:57
-fbbc0f56-df03-4731-abb0-bb79247e7304,sadness.fm,available,88.99,88.99,high,low,7,namesilo,,,
+fbbc0f56-df03-4731-abb0-bb79247e7304,sadness.fm,available,85,85,high,low,7,cloudflare,,,30/09/2026 03:34
+e307b8e6-d8a3-420e-9db2-9d88cb5d3a08,enrollments.fm,available,69.98,118.98,medium,low,11,namecheap,,,30/09/2026 16:24
 c88fad51-1ff3-4d30-9fb9-6e8575e8beb8,autobahn.fm,available,88.99,88.99,high,low,8,namesilo,,,21/09/2026 05:50
 b5d53a8f-70cc-41dd-a1e2-779677044c63,servers.fm,premium,201.83,87.98,high,low,7,spaceship,,,29/09/2026 17:57
 721bc76b-c3d4-45c0-bd6f-8dd2bde9d9ef,melanesian.fm,available,69.98,118.98,high,low,10,namecheap,,,24/08/2026 19:29
@@ -473,17 +511,19 @@ eb02bb43-0fd3-4739-970a-dd8e609f754c,upbeat.fm,available,69.98,118.98,high,low,6
 80e9c48b-6e17-4860-a65a-2547727e471d,vanquish.fm,available,69.98,118.98,high,low,8,namecheap,,,09/08/2026 05:32
 1a8cee65-929c-4b77-9716-4a335034b59f,panties.fm,available,67.98,87.72,high,low,7,spaceship,,,29/09/2026 23:36
 76eb8fe9-47c6-4b8a-bcd1-c6b62899c39f,barany.fm,available,88.99,88.99,medium,low,6,namesilo,,,22/09/2026 04:13
+1efd356c-676f-4ee1-a3e0-e0e7b88e3efc,tracer.fm,available,67.98,87.72,high,low,6,spaceship,,,01/10/2026 04:03
 305bfd7b-6e3b-4b48-b88f-cb371ed4300e,punish.fm,available,88.99,88.99,high,low,6,namesilo,,,27/09/2026 06:05
+7130990f-014e-4be3-9ab3-4de9fc8f3655,moths.fm,available,88.99,88.99,medium,low,5,namesilo,,,30/09/2026 06:56
 7ca8c9ef-419c-45cb-a07b-2090d2e7fd91,leaning.fm,available,69.98,118.98,high,low,7,namecheap,,,07/08/2026 13:24
 572536b0-2294-48a6-a62c-b8609bc971a6,flightless.fm,available,69.98,118.98,medium,low,10,namecheap,,,18/08/2026 08:09
 70962d5b-4960-44e6-a470-58551b07c3bc,monophonic.fm,available,69.98,118.98,high,low,10,namecheap,,,25/08/2026 04:55
 7a4a7344-df69-49c0-a1d8-e070c2d28da5,aleksandr.fm,available,87.85,87.85,medium,low,9,porkbun,,,28/09/2026 08:00
 86e23005-54f5-47f0-9ae1-ac7a0549650f,handle.fm,available,69.98,118.98,high,low,6,namecheap,,,08/09/2026 13:26
+0e854c86-83c0-45a9-a1f0-cb3e918713a3,childers.fm,available,85,85,medium,low,8,cloudflare,,,30/09/2026 13:42
 57abf7b2-e5ec-4386-b481-35c824062b94,wants.fm,available,69.98,118.98,medium,low,5,namecheap,,,25/09/2026 17:58
 fa8c94ac-7bb1-4b50-88c8-28803faafdeb,melodious.fm,available,69.98,118.98,high,low,9,namecheap,,,24/08/2026 19:38
 8de358ae-c06a-4e41-8406-5a8997c5bb7a,junctions.fm,available,88.99,88.99,medium,low,9,namesilo,,,27/09/2026 03:20
 38427713-d680-408d-b9f1-31d5f8a2dd52,sichuan.fm,available,67.98,87.72,medium,low,7,spaceship,,,28/09/2026 15:21
-b8897dd4-48e8-4b60-bbc9-3f750bbf1200,tuesday.fm,available,88.99,88.99,high,low,7,namesilo,,,
 181d7655-b423-4964-aeda-92ab8aa941bc,ogden.fm,available,88.99,88.99,medium,low,5,namesilo,,,25/09/2026 03:51
 eeec951a-a022-4458-b8d7-ed0aae5cb074,diner.fm,available,85,85,high,low,5,cloudflare,,,29/09/2026 05:07
 5a0bf9b3-38c2-414b-b23a-5da40f5ddea3,supreme.fm,premium,305.33,87.98,high,medium,7,spaceship,,,28/09/2026 02:04
@@ -506,15 +546,18 @@ e48a9801-77ab-44ea-af9d-b8a05bdeb099,nucleated.fm,available,69.98,118.98,medium,
 728b1a7a-14d7-4bf2-aff3-896a139242a0,majorities.fm,available,85,85,low,low,10,cloudflare,,,29/09/2026 05:40
 faeeb821-f6a7-4f9b-9325-4b0fa7b401c4,gave.fm,available,88.99,88.99,medium,low,4,namesilo,,,
 0b8c8ec4-ca21-4002-bf6c-6d11794abf54,aruru.fm,available,88.99,88.99,medium,low,5,namesilo,,,20/09/2026 12:26
-415ca9b2-5637-4206-afa8-f9bcc9c1c871,rigour.fm,available,88.99,88.99,high,low,6,namesilo,,,20/09/2026 14:57
+415ca9b2-5637-4206-afa8-f9bcc9c1c871,rigour.fm,available,88.99,88.99,medium,low,6,namesilo,,,20/09/2026 14:57
 98c529c6-f760-4e01-8e89-7d8a9f097d00,fits.fm,available,88.99,88.99,medium,low,4,namesilo,,,18/09/2026 18:43
 f15c40c9-9eb7-4d33-8414-5a2dfa69d99e,bleary.fm,available,69.98,118.98,medium,low,6,namecheap,,,10/08/2026 13:59
 251df980-e75f-403c-bd8a-9d9cd3f9f761,cleanup.fm,available,69.98,118.98,high,low,7,namecheap,,,12/08/2026 10:26
 aac11f48-4730-469a-9893-a0832932c226,referable.fm,available,69.98,118.98,medium,low,9,namecheap,,,07/08/2026 01:28
+04ac4c09-ec85-498d-a79b-70ce67d4ebb0,imitating.fm,available,69.98,118.98,high,low,9,namecheap,,,30/09/2026 20:05
 6ca2c79c-f612-4b95-9458-2e0ee62410c6,listed.fm,available,88.99,88.99,high,low,6,namesilo,,,25/09/2026 13:56
 78be6741-9b1e-47f2-b587-e0de0c8ca7d0,hesitation.fm,available,88.99,88.99,high,low,10,namesilo,,,24/09/2026 16:28
+f4abfb50-0063-4247-affd-4e9512bd68d3,laundering.fm,available,88.99,88.99,medium,low,10,namesilo,,,30/09/2026 10:23
 01d89c47-9466-4566-a836-c83b9313339a,shaven.fm,available,69.98,118.98,high,medium,6,namecheap,,,10/09/2026 06:07
-8f165363-250b-4cf9-8bae-83bb8e7cdbdd,corpse.fm,available,69.98,118.98,high,low,6,namecheap,,,25/09/2026 22:01
+8f165363-250b-4cf9-8bae-83bb8e7cdbdd,corpse.fm,available,69.98,118.98,medium,low,6,namecheap,,,25/09/2026 22:01
+1dcc04c8-8b64-4477-9a56-013cd5a411be,parkway.fm,available,67.98,87.72,medium,low,7,spaceship,,,30/09/2026 10:48
 19c067fa-cbfa-4de8-a88a-39967e91ffe2,rocklike.fm,available,69.98,118.98,medium,low,8,namecheap,,,20/08/2026 18:00
 bacf6c3b-19e9-481b-84d5-1e40e700c9fe,yale.fm,available,88.99,88.99,high,low,4,namesilo,,,25/09/2026 05:27
 dd9cebf1-ecd1-4da5-a871-620b15495b51,pantry.fm,available,69.98,118.98,high,low,6,namecheap,,,11/08/2026 11:54
@@ -524,8 +567,8 @@ bb442da7-45e0-47c2-bbdd-6ac17b9f08bf,incensed.fm,available,69.98,118.98,medium,l
 5eabed81-3ddc-4e24-8a4b-139f92f2b621,eastmost.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/08/2026 22:57
 6b177e06-ab8a-430a-b5d4-e17b164f0034,tenure.fm,available,85,85,high,low,6,cloudflare,,,29/09/2026 19:18
 fdd4b69c-3f98-47f4-be28-a6d9a52fadc4,riparian.fm,available,69.98,118.98,high,low,8,namecheap,,,09/09/2026 17:53
-3a023ca1-2103-434a-befd-ae28a31d3026,analysis.fm,available,85,85,high,low,8,cloudflare,,,28/09/2026 03:24
-e093aaee-371b-40f7-8597-33880f6e4343,amazona.fm,available,69.98,118.98,high,low,7,namecheap,,,18/09/2026 16:23
+3a023ca1-2103-434a-befd-ae28a31d3026,analysis.fm,available,69.98,118.98,high,low,8,namecheap,,,30/09/2026 09:37
+e093aaee-371b-40f7-8597-33880f6e4343,amazona.fm,available,69.98,118.98,medium,low,7,namecheap,,,18/09/2026 16:23
 fcc0f756-b311-4978-8cfe-055ef28df7ca,possibility.fm,available,88.99,88.99,high,low,11,namesilo,,,25/09/2026 16:40
 d3ab6883-63a9-4598-8a7d-ea552addbf90,mutilated.fm,available,69.98,118.98,medium,low,9,namecheap,,,24/08/2026 13:22
 d231d4a0-936c-430e-8c38-0690bc20eb35,provisory.fm,available,69.98,118.98,medium,low,9,namecheap,,,09/09/2026 04:36
@@ -534,6 +577,7 @@ d231d4a0-936c-430e-8c38-0690bc20eb35,provisory.fm,available,69.98,118.98,medium,
 c9302541-15ad-40e9-b6b2-c281952e721a,satan.fm,available,67.98,87.72,high,low,5,spaceship,,,29/09/2026 01:53
 ff471f5e-0d2d-4cbf-8180-fb269a04a108,discussed.fm,available,88.99,88.99,medium,low,9,namesilo,,,27/09/2026 10:04
 0aeb41f2-8060-4ff6-8a12-4e6822d5fbcc,belloc.fm,available,88.99,88.99,medium,low,6,namesilo,,,23/09/2026 06:16
+6ca0743e-ff7a-4ec8-9f48-0e6463e2c33a,priesthood.fm,available,88.99,88.99,high,low,10,namesilo,,,30/09/2026 10:54
 cff4418e-840e-40a7-9844-5cc28f5935e4,violation.fm,available,67.98,87.72,high,low,9,spaceship,,,30/09/2026 00:09
 6dba847c-e1c0-4e12-b507-20276872705b,graspable.fm,available,69.98,118.98,medium,low,9,namecheap,,,06/08/2026 08:18
 5361e0a9-e716-420a-8712-cc79fac7a730,ldl.fm,available,88.99,88.99,high,low,3,namesilo,,,23/09/2026 10:53
@@ -543,18 +587,19 @@ e5becb20-6eae-420c-ae40-507346533197,requests.fm,available,88.99,88.99,medium,lo
 3bb97f66-179e-4415-82c8-25b5a9ba915f,clunky.fm,available,69.98,118.98,medium,low,6,namecheap,,,12/08/2026 13:08
 26597440-794c-4508-8ac4-dd16480fcc91,directed.fm,available,88.99,88.99,high,low,8,namesilo,,,24/09/2026 10:49
 34dcf1d0-b582-489a-81a7-2d18501c9bb6,witloof.fm,available,88.99,88.99,medium,low,7,namesilo,,,23/09/2026 05:01
+83c41a6a-dc90-4d7d-94f0-33177fe5a39a,epochs.fm,available,67.98,87.72,low,low,6,spaceship,,,30/09/2026 15:49
 0bcdb49b-5eab-4bf5-9f6e-6ec4d375d1a2,biases.fm,available,99,160.99,low,low,6,name.com,,,18/09/2026 23:44
 fb2d84e2-51b2-4847-834b-a6863681ea20,effective.fm,premium,249.6,102,high,low,9,namesilo,,,24/09/2026 13:31
 65b8444b-ffdd-40d6-b1ba-12680d116dfe,uncharted.fm,available,69.98,118.98,medium,low,9,namecheap,,,12/08/2026 02:53
 97f3e638-5609-47fb-8e04-e5d4586769ab,yankee.fm,available,69.98,118.98,high,low,6,namecheap,,,13/09/2026 14:12
-13896196-0418-47e4-aaf3-8495920af54b,administration.fm,available,85,85,high,low,14,cloudflare,,,28/09/2026 03:19
+13896196-0418-47e4-aaf3-8495920af54b,administration.fm,available,67.98,87.72,high,low,14,spaceship,,,30/09/2026 08:00
 9489735c-3363-4a52-8700-f1fb8449d825,bouncy.fm,available,69.98,118.98,high,low,6,namecheap,,,23/09/2026 01:24
 ab6b17ec-a0e2-4779-ab68-8f58cbdb070f,catering.fm,available,67.98,87.72,high,low,8,spaceship,,,28/09/2026 18:37
 8df80b4b-ffb2-46d1-b2a3-2bc5a70fa4ba,saginaw.fm,available,67.98,87.72,medium,low,7,spaceship,,,28/09/2026 03:02
-98ec6fed-8e05-4794-9e06-ae39ac050c34,norseman.fm,available,69.98,118.98,high,low,8,namecheap,,,03/09/2026 21:43
+98ec6fed-8e05-4794-9e06-ae39ac050c34,norseman.fm,available,69.98,118.98,medium,low,8,namecheap,,,03/09/2026 21:43
 7726a2c6-11a3-48dc-9ec2-40b7ec579488,happily.fm,available,85,85,high,low,7,cloudflare,,,28/09/2026 13:29
-8eace9a9-db6f-4c39-80a2-7a69733504f1,uncounted.fm,available,69.98,118.98,high,low,9,namecheap,,,13/08/2026 03:44
-3f4d7a92-3e46-4678-8f73-48031b094748,bottles.fm,available,69.98,118.98,high,low,7,namecheap,,,18/09/2026 04:05
+8eace9a9-db6f-4c39-80a2-7a69733504f1,uncounted.fm,available,69.98,118.98,medium,low,9,namecheap,,,13/08/2026 03:44
+3f4d7a92-3e46-4678-8f73-48031b094748,bottles.fm,available,69.98,118.98,medium,low,7,namecheap,,,18/09/2026 04:05
 ec3125ad-cf78-4250-96ff-812ad7856d15,fortress.fm,available,67.98,87.72,high,low,8,spaceship,,,28/09/2026 05:46
 a695f8da-2927-4334-8650-f0ee5edd4ff6,barns.fm,available,88.99,88.99,medium,low,5,namesilo,,,20/09/2026 22:46
 52fe0651-cc4e-4d46-b631-6930cf282a88,qatari.fm,available,69.98,118.98,high,low,6,namecheap,,,22/08/2026 15:09
@@ -564,18 +609,18 @@ c9e8fd77-b59d-4580-8b31-3ff38af52aa5,dies.fm,available,88.99,88.99,high,low,4,na
 bda6846d-4a79-4251-9e1c-59e20773f32f,rubicund.fm,available,69.98,118.98,high,medium,8,namecheap,,,09/09/2026 19:17
 36601115-dce6-4917-a15b-ecf74d14f165,edgewise.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/09/2026 15:02
 7d749e64-a1fb-4399-9091-77b13463a0eb,ultimately.fm,available,67.98,87.72,medium,low,10,spaceship,,,28/09/2026 12:39
-03c502ee-2fe9-4ac2-bfe9-f78ba3c2deec,relationship.fm,available,88.99,88.99,high,low,12,namesilo,,,
-46760ebc-0927-428f-bc4e-59efa723f4b6,explain.fm,available,88.99,88.99,high,low,7,namesilo,,,
+03c502ee-2fe9-4ac2-bfe9-f78ba3c2deec,relationship.fm,available,88.99,88.99,high,low,12,namesilo,,,01/10/2026 02:58
+46760ebc-0927-428f-bc4e-59efa723f4b6,explain.fm,available,68.25,89.25,high,low,7,dynadot,,,30/09/2026 19:34
 4692a1c0-bf7d-4bd9-8be8-e53bcf0ac929,commode.fm,available,69.98,118.98,high,medium,7,namecheap,,,09/09/2026 00:51
 a3a29898-85bf-4396-ae97-43945a15342d,jillion.fm,available,69.98,118.98,medium,low,7,namecheap,,,11/09/2026 19:52
 66b2300f-5ebd-47eb-b51e-b64d22d30dbb,correctional.fm,available,88.99,88.99,medium,low,12,namesilo,,,29/09/2026 14:55
-1d4f2105-bfe3-4ccc-bda1-f54d1de3b55b,nestorian.fm,available,69.98,118.98,high,low,9,namecheap,,,03/09/2026 15:50
+1d4f2105-bfe3-4ccc-bda1-f54d1de3b55b,nestorian.fm,available,69.98,118.98,medium,low,9,namecheap,,,03/09/2026 15:50
 8f774a1e-fcb6-4cd1-9302-7772814fc1b3,minder.fm,available,88.99,88.99,medium,low,6,namesilo,,,21/09/2026 13:29
 78c07a51-9b81-426c-bd4c-4250cbb34c26,typical.fm,available,88.99,88.99,high,low,7,namesilo,,,24/09/2026 11:26
 1db9bf41-6329-4379-938d-532529e305d3,brinjal.fm,available,99,160.99,high,low,7,name.com,,,21/09/2026 02:34
 09c5571e-bc86-421a-8aa3-5a3a5277d546,lunate.fm,available,69.98,118.98,medium,low,6,namecheap,,,13/08/2026 06:12
 707c5ffe-6a68-422c-aa24-142532e192ed,roughish.fm,available,69.98,118.98,high,medium,8,namecheap,,,09/09/2026 19:01
-5774ad60-747c-4de2-a023-3a394decaf53,distinctly.fm,available,69.98,118.98,high,low,10,namecheap,,,14/09/2026 13:19
+5774ad60-747c-4de2-a023-3a394decaf53,distinctly.fm,available,69.98,118.98,medium,low,10,namecheap,,,14/09/2026 13:19
 69e5454e-e083-4c65-9b09-505c687464ce,screamer.fm,available,88.99,88.99,medium,low,8,namesilo,,,22/09/2026 17:00
 b87965a4-3040-4fc9-a169-6dad925c1bc4,cursed.fm,available,69.98,118.98,high,low,6,namecheap,,,13/08/2026 11:32
 e1a5186a-7e7a-4509-a215-a6d98ba086da,floored.fm,available,69.98,118.98,medium,low,7,namecheap,,,18/08/2026 08:49
@@ -583,18 +628,20 @@ e1a5186a-7e7a-4509-a215-a6d98ba086da,floored.fm,available,69.98,118.98,medium,lo
 69757c7b-dbf7-4031-ac23-7a977cc014b8,captive.fm,available,69.98,118.98,high,low,7,namecheap,,,
 b3816916-95be-4d9e-8d96-a0e57a6099b1,sculptural.fm,available,69.98,118.98,medium,low,10,namecheap,,,25/08/2026 02:53
 7e55f3f2-77f1-43f6-95f5-7220dcf51523,entrenched.fm,available,88.99,88.99,medium,low,10,namesilo,,,24/09/2026 14:13
-1b6f3311-1afd-4152-ab0c-b0a9c17e7b18,hartford.fm,available,87.85,87.85,high,low,8,porkbun,,,28/09/2026 18:33
-a90e8011-752a-4068-bf49-fbffc2aee1b1,tactful.fm,available,69.98,118.98,high,low,7,namecheap,,,22/08/2026 15:49
-33ccf9fe-bde8-4bfc-b0d4-074a7b29a547,inhibit.fm,available,88.99,88.99,high,low,7,namesilo,,,
+1b6f3311-1afd-4152-ab0c-b0a9c17e7b18,hartford.fm,available,87.85,87.85,medium,low,8,porkbun,,,28/09/2026 18:33
+a90e8011-752a-4068-bf49-fbffc2aee1b1,tactful.fm,available,69.98,118.98,medium,low,7,namecheap,,,22/08/2026 15:49
+33ccf9fe-bde8-4bfc-b0d4-074a7b29a547,inhibit.fm,available,67.98,87.72,high,low,7,spaceship,,,30/09/2026 16:14
 4ea9926a-7544-4bf0-a5dc-7aaa33f09289,tamable.fm,available,69.98,118.98,medium,low,7,namecheap,,,11/09/2026 07:36
-7e68cf1a-6e6c-42d6-90d3-66b0284e6771,rodrigues.fm,available,88.99,88.99,high,low,9,namesilo,,,29/09/2026 04:31
+7e68cf1a-6e6c-42d6-90d3-66b0284e6771,rodrigues.fm,available,88.99,88.99,medium,low,9,namesilo,,,29/09/2026 04:31
 08fcb959-d33e-4790-8191-38eb4adee7e0,cement.fm,available,87.85,87.85,high,low,6,porkbun,,,29/09/2026 07:46
 1e6f4a08-77e1-4b2c-ae08-6c2f244a3aa6,scienter.fm,available,69.98,118.98,medium,low,8,namecheap,,,16/09/2026 00:44
+456216ca-b82d-4e14-b903-c23955f46471,statistic.fm,available,68.25,89.25,high,low,9,dynadot,,,30/09/2026 11:05
 ee914e30-2c44-4c4f-a923-7d7476f8fe22,pastoral.fm,available,69.98,118.98,high,low,8,namecheap,,,06/08/2026 14:20
 a7082ca5-443b-4997-a543-f5abf2400b67,pedigree.fm,available,69.98,118.98,high,low,8,namecheap,,,08/09/2026 13:15
 4c58776b-937b-4e13-b86d-e8dd13aac480,degree.fm,available,69.98,118.98,high,low,6,namecheap,,,23/08/2026 00:33
 5e6c6a87-af6d-4c67-bc79-b4dff5b29bd2,weaknesses.fm,available,69.98,118.98,low,low,10,namecheap,,,29/09/2026 17:45
 7835f801-5054-4014-9ba9-74de83f87213,ruiz.fm,available,88.99,88.99,medium,low,4,namesilo,,,27/09/2026 07:03
+b0ed8ebf-f616-4cde-9ffc-2171755967ca,revolve.fm,available,88.99,88.99,high,low,7,namesilo,,,01/10/2026 03:10
 9f555b73-5b3f-482e-ad06-f281a3e92895,galveston.fm,available,88.99,88.99,high,low,9,namesilo,,,27/09/2026 04:07
 18054cbf-fd8c-42e4-82e7-c853941d073d,baronet.fm,available,88.99,88.99,high,low,7,namesilo,,,22/09/2026 07:28
 03c18074-6629-4c11-b64d-136f1beb06ee,unlikeable.fm,available,69.98,118.98,medium,low,10,namecheap,,,12/09/2026 00:56
@@ -603,17 +650,19 @@ ea608cca-29a8-4d83-81f5-7af79766a8c6,awn.fm,available,88.99,88.99,high,low,3,nam
 a2af2b46-9d5e-42db-9ffe-3e0876e9a456,marblewood.fm,available,88.99,88.99,medium,low,10,namesilo,,,19/09/2026 03:58
 d9669213-96d7-413d-912a-02c396ed550a,prosper.fm,available,67.98,87.72,high,low,7,spaceship,,,29/09/2026 20:45
 8288c083-d36b-4b44-b2d9-21c32aa97ac9,rarer.fm,available,69.98,118.98,medium,low,5,namecheap,,,20/09/2026 08:12
-c2f87efc-fc34-40dd-a8cf-b25e3d078eb0,shriek.fm,available,69.98,118.98,high,low,6,namecheap,,,09/09/2026 23:53
+c2f87efc-fc34-40dd-a8cf-b25e3d078eb0,shriek.fm,available,69.98,118.98,medium,low,6,namecheap,,,09/09/2026 23:53
 ab6ba4c3-7fd4-4bb3-8cfe-a7dd13e75d76,futile.fm,available,88.99,88.99,medium,low,6,namesilo,,,22/09/2026 23:49
 fdc0f604-c6e6-4137-81ce-59315d72a471,percent.fm,available,88.99,88.99,high,low,7,namesilo,,,25/09/2026 23:58
 0dfd0c4a-8a33-44aa-9c76-a200b50bb876,belief.fm,available,88.99,88.99,high,low,6,namesilo,,,23/09/2026 05:12
 afab0e50-33f7-4049-b1c4-10087e0b9734,artifacts.fm,available,68.25,89.25,medium,low,9,dynadot,,,29/09/2026 17:20
 6aee5390-3161-461c-a5a1-6a6c9f1ced94,nihilistic.fm,available,69.98,118.98,medium,low,10,namecheap,,,03/09/2026 17:24
-0906396e-47fe-4b34-8dfb-2f541e7d0e57,benzocaine.fm,available,88.99,88.99,high,low,10,namesilo,,,23/09/2026 08:58
+0906396e-47fe-4b34-8dfb-2f541e7d0e57,benzocaine.fm,available,88.99,88.99,medium,low,10,namesilo,,,23/09/2026 08:58
 5cb4d1f3-d058-429b-9186-8a8e40506f5a,screw.fm,available,69.98,118.98,high,low,5,namecheap,,,18/08/2026 17:26
+ffa2324f-8d42-46ae-8054-d982a50bdbf4,rajput.fm,available,88.99,88.99,high,low,6,namesilo,,,01/10/2026 03:24
 ade01194-68a3-4386-8f87-91217098b46f,roan.fm,available,69.98,118.98,high,low,4,namecheap,,,09/09/2026 18:08
 c56664c0-15cd-4501-9254-aafb104c7fa0,afrikaner.fm,available,69.98,118.98,medium,low,9,namecheap,,,
-26879d42-84c6-408e-a203-06c6208a8825,litre.fm,available,69.98,118.98,high,low,5,namecheap,,,22/08/2026 17:09
+79d71c4a-84d5-496d-9a74-f0599b359c70,flagship.fm,available,67.98,87.72,high,low,8,spaceship,,,30/09/2026 17:19
+26879d42-84c6-408e-a203-06c6208a8825,litre.fm,available,69.98,118.98,medium,low,5,namecheap,,,22/08/2026 17:09
 2d139431-fb37-4031-a6b5-66f570136fdd,propeller.fm,available,88.99,88.99,high,low,9,namesilo,,,29/09/2026 01:54
 61eba6d0-d77d-42d3-ad7e-674c656e44df,saler.fm,available,88.99,88.99,medium,low,5,namesilo,,,
 4afff748-fb9c-422b-92c5-44099ca84fae,buttermilk.fm,available,88.99,88.99,high,low,10,namesilo,,,24/09/2026 11:20
@@ -621,10 +670,13 @@ f663d14d-01e1-4ab8-8155-19b548d5fd9d,irascible.fm,available,69.98,118.98,medium,
 f513d7a9-25cc-4358-adb3-143a594cd268,locke.fm,available,69.98,118.98,high,low,5,namecheap,,,25/09/2026 08:02
 00621b94-df1c-448f-b3b8-f21d196b170b,genially.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/09/2026 17:52
 8d0f0e3d-ccbd-4f2c-bc3c-8559a562efb1,redeemable.fm,available,69.98,118.98,high,low,10,namecheap,,,11/08/2026 20:14
+d2ebd94e-2340-42ea-83af-3056a1dc2130,predominantly.fm,available,88.99,88.99,medium,low,13,namesilo,,,01/10/2026 05:46
 1783a4d8-bed5-4684-a520-8b6ddad2f1e7,cooperation.fm,available,88.99,88.99,high,low,11,namesilo,,,28/09/2026 04:34
+88fa02af-23a7-460b-9e95-0ccf0332e189,symonds.fm,available,85,85,high,low,7,cloudflare,,,30/09/2026 10:18
 f5a12561-34d8-42e8-87d2-0b184bc8fcbb,operose.fm,available,69.98,118.98,medium,low,7,namecheap,,,06/08/2026 17:05
 cd335b75-510a-480c-b208-50ee93e16b90,duval.fm,available,67.98,87.72,medium,low,5,spaceship,,,28/09/2026 11:57
 b8d2f440-1015-4670-81ee-4c33e4e2ee7d,sanious.fm,available,69.98,118.98,medium,low,7,namecheap,,,21/08/2026 17:49
+4f5678bf-379b-4855-bd5f-7173eb67ade4,blaise.fm,available,85,85,medium,low,6,cloudflare,,,30/09/2026 13:38
 cb1e1c77-b7e8-4ced-a64b-41ef9dfcb441,footer.fm,available,69.98,118.98,high,low,6,namecheap,,,08/09/2026 12:38
 663fa2d2-2a6a-4f20-93c4-f9e271ad723b,proven.fm,available,88.99,88.99,high,low,6,namesilo,,,27/09/2026 08:25
 2889d19d-e4ac-4c9d-9e49-157d0fc83fae,aesir.fm,available,88.99,88.99,medium,low,5,namesilo,,,17/09/2026 13:23
@@ -636,11 +688,13 @@ e343c30b-f240-4c8c-b15b-34ebce9ec77a,espionage.fm,available,69.98,118.98,high,lo
 d39a7a50-8407-4325-8abd-f2403618a5a8,wrought.fm,available,69.98,118.98,medium,low,7,namecheap,,,25/08/2026 03:48
 f346d356-ad4e-4d6d-8579-e1d18add9070,hideous.fm,available,69.98,118.98,medium,low,7,namecheap,,,21/08/2026 08:13
 98127790-0095-43e9-9039-4ccb3156ee49,multiplication.fm,available,88.99,88.99,medium,low,14,namesilo,,,
+d2614b71-9ddc-4da8-93b7-5b3bfbc40ce9,forsythe.fm,available,67.98,87.72,medium,low,8,spaceship,,,30/09/2026 16:08
 19d3c8ad-9ed1-4ad7-8250-ff0e2158b4ae,computing.fm,available,88.99,88.99,high,low,9,namesilo,,,19/09/2026 12:12
 4fc22439-0b8b-4f24-9dce-c5f78dfe4ad3,deceived.fm,available,67.98,87.72,low,low,8,spaceship,,,29/09/2026 23:13
 8baad1f9-1137-4447-a5c4-8d1a09136550,spiral.fm,available,88.99,88.99,high,low,6,namesilo,,,23/09/2026 14:59
 df51205a-720e-4d32-9360-2fccbb452dcb,uruguayan.fm,available,69.98,118.98,high,low,9,namecheap,,,12/09/2026 23:55
 65f0518b-bdfd-4dc3-a8ef-4670c70e6bba,elbow.fm,available,88.99,88.99,high,low,5,namesilo,,,20/09/2026 11:23
+bd087de2-62c3-4b9b-b98f-09785ebc17f7,validity.fm,available,69.98,118.98,high,low,8,namecheap,,,30/09/2026 17:33
 90d565b5-a7c5-48d3-b77f-e09cfb07d766,attester.fm,available,88.99,88.99,medium,low,8,namesilo,,,21/09/2026 01:41
 35a4d2ae-3b82-4fc3-a12e-c20b8a95a6d3,feeding.fm,available,88.99,88.99,high,low,7,namesilo,,,25/09/2026 22:30
 1fc872d6-4579-46e7-8053-72b91b9aca2a,turning.fm,available,88.99,88.99,high,low,7,namesilo,,,26/09/2026 00:27
@@ -652,11 +706,13 @@ c1023923-a96c-43d8-8c66-16ce76432ea9,nicholls.fm,available,67.98,87.72,medium,lo
 908f3201-8091-4b39-b2e7-8141c6f71f0c,slovenly.fm,available,69.98,118.98,medium,low,8,namecheap,,,18/08/2026 16:55
 c4f3c3eb-6121-4a49-8e4a-796fa336eadb,trna.fm,available,88.99,88.99,high,low,4,namesilo,,,16/09/2026 22:03
 26209b09-efb9-4fa5-b8b3-392b9314dbb7,bulk.fm,available,88.99,88.99,high,low,4,namesilo,,,29/09/2026 05:21
+180b8d57-a18f-449a-8ba7-7fc52bc395af,woodpecker.fm,available,67.98,87.72,high,low,10,spaceship,,,30/09/2026 10:50
 f14bd65d-908b-4fd4-824e-58f971e1e0dc,understands.fm,available,88.99,88.99,high,low,11,namesilo,,,28/09/2026 00:05
 8987346c-6f72-4c80-8b06-e7761b7ebddf,linz.fm,available,69.98,118.98,high,low,4,namecheap,,,29/09/2026 13:18
 d752eac1-65bb-4541-9288-4821bf1d9153,grazed.fm,available,69.98,118.98,medium,low,6,namecheap,,,20/08/2026 19:29
 0bfe0f94-1dee-4689-87ca-9de5cc0df33e,babirusa.fm,available,88.99,88.99,medium,low,8,namesilo,,,21/09/2026 12:44
 746dbfaf-5e72-49ce-8d82-e5d2e0d7c4ed,collide.fm,available,88.99,88.99,high,low,7,namesilo,,,24/09/2026 15:18
+f4f8b696-3daa-4fde-965e-fca8e1d0d980,solidarity.fm,premium,249.6,102,high,low,10,namesilo,,,30/09/2026 02:56
 2faae979-c1e8-4930-a503-2b96ba187e24,guidelines.fm,available,85,85,medium,low,10,cloudflare,,,29/09/2026 17:19
 ce16be1c-e2ea-4115-a1d1-46ff6392bc5f,murderous.fm,available,69.98,118.98,medium,low,9,namecheap,,,21/08/2026 11:28
 2087f0af-25de-46aa-915a-200123725a33,numbing.fm,available,69.98,118.98,medium,low,7,namecheap,,,03/09/2026 22:49
@@ -666,13 +722,16 @@ e907f986-809c-433b-8ddf-3584e08cd40e,unprecedented.fm,available,87.85,87.85,high
 8fe8f32f-585a-4a0a-be44-8b039874f622,uut.fm,available,69.98,118.98,medium,low,3,namecheap,,,20/09/2026 22:17
 c740c478-b9cd-4f27-8966-e6dadd444c43,caitiff.fm,available,69.98,118.98,low,low,7,namecheap,,,11/08/2026 13:26
 5627b1fa-0a20-4d86-b84b-951b0b8556fd,poof.fm,available,69.98,118.98,medium,low,4,namecheap,,,09/09/2026 08:09
+b0c340fa-084f-430e-9623-6e663f0bdad6,mankato.fm,available,67.98,87.72,high,low,7,spaceship,,,30/09/2026 17:58
 bb9b3155-027f-40f2-81e1-d004263b0054,outflank.fm,available,69.98,118.98,medium,low,8,namecheap,,,09/08/2026 17:48
 07d5ff8c-e1f2-4eb5-8a06-d8e13d05cc89,nyt.fm,available,88.99,88.99,high,low,3,namesilo,,,
 3dd24210-2a01-4395-9ad5-deea969c9f06,dementia.fm,available,88.99,88.99,high,low,8,namesilo,,,24/09/2026 21:47
 2e3430cf-aadb-4319-81fa-cd068f7c67f6,newcomb.fm,available,67.98,87.72,high,low,7,spaceship,,,29/09/2026 13:33
+5c9cc8d2-dcf2-4717-9c77-b0c496894366,seniority.fm,available,88.99,88.99,high,low,9,namesilo,,,30/09/2026 17:37
 5a43f40a-dd66-4d0b-90ca-fa4d9da0bdfe,outbred.fm,available,69.98,118.98,medium,low,7,namecheap,,,04/09/2026 19:03
-b3faa792-5150-4ba1-a64d-b17caea70922,ideally.fm,available,69.98,118.98,high,low,7,namecheap,,,28/09/2026 15:16
+b3faa792-5150-4ba1-a64d-b17caea70922,ideally.fm,available,69.98,118.98,medium,low,7,namecheap,,,28/09/2026 15:16
 26b4a916-984e-49d7-bdae-0f8e1a3f79db,homemade.fm,available,88.99,88.99,high,low,8,namesilo,,,29/09/2026 22:59
+b36260fa-8765-4cdc-866d-4b66fc48d933,ahn.fm,available,85,85,medium,low,3,cloudflare,,,30/09/2026 20:22
 5db7961f-f796-4c63-b7f6-5f972f2f33b8,grubby.fm,available,69.98,118.98,medium,low,6,namecheap,,,09/08/2026 09:31
 e713116d-f444-4bfe-ac14-19d85f2bcfd5,evidently.fm,available,69.98,118.98,high,low,9,namecheap,,,08/09/2026 20:21
 f11eba33-6cdf-4098-a60f-2bfdc55ea266,believing.fm,available,69.98,118.98,high,low,9,namecheap,,,23/09/2026 05:15
@@ -700,22 +759,24 @@ feed7831-ce11-4eaa-9cb0-73f1289126d7,unbarred.fm,available,69.98,118.98,medium,l
 4ceb1038-fd13-4a02-85f5-165807dbb5d0,analects.fm,available,99,160.99,medium,low,8,name.com,,,19/09/2026 01:48
 37cc69c4-29d6-4151-879f-ca734a4e4dff,completed.fm,available,88.99,88.99,high,low,9,namesilo,,,23/09/2026 17:22
 f03ced99-9a41-48fc-b261-e147dd264791,british.fm,premium,643.5,110.5,high,low,7,namecheap,,,23/09/2026 09:38
+36b71cd4-d5e9-49af-a164-9800e1e1993c,bureaucratic.fm,available,67.98,87.72,medium,low,12,spaceship,,,30/09/2026 19:59
 b854f271-eaf9-4bb2-87f1-03e29458c5e9,tokyo.fm,premium,38993.5,110.5,high,low,5,namecheap,,,24/09/2026 12:18
 0f144fdf-9505-467f-bc1d-e50e477c716b,chestnuts.fm,available,69.98,118.98,medium,low,9,namecheap,,,20/09/2026 20:45
-f5c175d0-9ff3-4d2d-af77-29d7c785741d,monied.fm,available,69.98,118.98,high,low,6,namecheap,,,25/08/2026 04:39
+f5c175d0-9ff3-4d2d-af77-29d7c785741d,monied.fm,available,69.98,118.98,medium,low,6,namecheap,,,25/08/2026 04:39
 96d6269d-6482-424a-a0d8-a941533a1e6c,bargaining.fm,available,88.99,88.99,high,low,10,namesilo,,,22/09/2026 05:36
 aeddd18a-94c5-40d5-96c0-50b6682066e2,babies.fm,available,88.99,88.99,high,low,6,namesilo,,,
+2bec5f53-8c92-44db-b2bd-b2fa8081250c,decorating.fm,available,67.98,87.72,high,low,10,spaceship,,,30/09/2026 04:09
 50549e68-c15e-43f1-aaae-9a9ed2655157,asshole.fm,available,69.98,118.98,medium,low,7,namecheap,,,08/08/2026 23:24
 a55d4929-9161-433d-baac-0d6b9e81b0b5,bhutani.fm,available,69.98,118.98,medium,low,7,namecheap,,,09/08/2026 18:26
 e84a6acc-de8b-4f33-a156-cc0eb4803782,processed.fm,available,67.98,87.72,medium,low,9,spaceship,,,28/09/2026 08:40
 d600ec14-e259-41e0-9b13-8880bea5546a,tocsin.fm,available,99,160.99,medium,low,6,name.com,,,18/09/2026 01:57
 41694ac2-a009-4ec4-9cf7-ef592d748a7c,bicolor.fm,available,69.98,118.98,high,low,7,namecheap,,,09/08/2026 19:11
 c240ad68-396d-4b5b-917e-9aae3ab51474,monks.fm,available,88.99,88.99,medium,low,5,namesilo,,,28/09/2026 21:40
-a609272d-5078-4210-9594-1cdcfa9529a5,propranolol.fm,available,88.99,88.99,high,low,11,namesilo,,,20/09/2026 00:29
+a609272d-5078-4210-9594-1cdcfa9529a5,propranolol.fm,available,88.99,88.99,medium,low,11,namesilo,,,20/09/2026 00:29
 e53ed695-ac56-4761-ac1b-f3e8c8d97df1,nay.fm,premium,249.6,102,medium,low,3,namesilo,,,15/09/2026 16:14
 fa8fd8db-a02a-4d2d-a8a8-548eb8860c24,guttural.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/08/2026 07:31
 21a7f7c2-9dad-40dc-b890-7f17ba57358c,aeriferous.fm,available,69.98,118.98,high,low,10,namecheap,,,
-218ea15a-9836-454d-b5ea-0c41dbaff8a5,waiter.fm,available,88.99,88.99,high,low,6,namesilo,,,
+218ea15a-9836-454d-b5ea-0c41dbaff8a5,waiter.fm,available,88.99,88.99,high,low,6,namesilo,,,30/09/2026 10:59
 b4d03894-c6a3-447f-bd34-2a695b232787,residual.fm,available,69.98,118.98,high,low,8,namecheap,,,09/09/2026 14:59
 a259464b-afbf-4dd8-baf7-4d2b27a7c419,grandkids.fm,available,69.98,118.98,medium,low,9,namecheap,,,19/09/2026 23:28
 74f78b32-f90e-4dca-a498-0bfe79641cc6,delimited.fm,available,69.98,118.98,medium,low,9,namecheap,,,10/08/2026 21:54
@@ -728,38 +789,43 @@ b668eeef-9b6d-4cec-9652-a876db38a4ff,affected.fm,available,69.98,118.98,high,low
 3b7879a9-f802-4d97-835f-f1b947b8fca9,allis.fm,available,88.99,88.99,medium,low,5,namesilo,,,18/09/2026 11:06
 fe846e4c-8806-469d-96d8-6d1bd13e7f55,sopranino.fm,available,69.98,118.98,high,low,9,namecheap,,,10/09/2026 14:22
 22a9daec-d9a0-4474-b079-3f6f4a46ffec,desirous.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/08/2026 03:49
+60713535-f1e0-49e7-8b07-2fad0d3dac13,howe.fm,available,88.99,88.99,high,low,4,namesilo,,,30/09/2026 17:09
 d5e9a271-52ab-4502-bd09-c8c2780bc637,subaquatic.fm,available,69.98,118.98,medium,low,10,namecheap,,,10/09/2026 23:28
 64364c62-4d36-4f16-84a5-6c544c79bfa2,ungentle.fm,available,69.98,118.98,medium,low,8,namecheap,,,12/09/2026 11:11
 a6bc1dbc-239c-4941-a32e-61e106f1ff7c,heidelberg.fm,premium,249.6,102,high,low,10,namesilo,,,25/09/2026 16:09
 a3f4b18b-28db-4d4d-92f5-4fc7be015e93,furman.fm,available,88.99,88.99,medium,low,6,namesilo,,,29/09/2026 04:35
+529268d9-aec4-4630-8ce4-3dd344076503,pontiac.fm,available,85,85,high,low,7,cloudflare,,,01/10/2026 03:20
 c115e78b-dd7c-4ebb-b716-1383166d18b0,ergotic.fm,available,69.98,118.98,medium,low,7,namecheap,,,17/08/2026 12:13
 ae6c7996-5352-45a2-bde3-31bd7778afe0,battleship.fm,available,88.99,88.99,high,low,10,namesilo,,,22/09/2026 16:29
 656ad41d-8726-450c-8a66-443b91ee2602,breezily.fm,available,69.98,118.98,high,low,8,namecheap,,,14/09/2026 01:28
-550fe3ea-bcb1-4d51-bead-08b36fe0b333,inexpensive.fm,available,88.99,88.99,high,low,11,namesilo,,,
+550fe3ea-bcb1-4d51-bead-08b36fe0b333,inexpensive.fm,available,85,85,high,low,11,cloudflare,,,01/10/2026 01:44
 809f0a39-a229-487a-9bf6-6cce57614427,slurred.fm,available,69.98,118.98,medium,low,7,namecheap,,,10/09/2026 11:42
 4c161adc-463a-4044-912b-e2c6de73852a,scratching.fm,available,67.98,87.72,high,low,10,spaceship,,,29/09/2026 20:18
 c2c2ac7e-41ca-470c-b972-6a22cf392a0a,tingling.fm,available,69.98,118.98,high,low,8,namecheap,,,11/09/2026 15:29
 8daa0ccc-cdfb-4099-b7b3-4b70dbb2bb63,myotonic.fm,available,69.98,118.98,medium,low,8,namecheap,,,03/09/2026 12:15
 00b5429b-2084-4913-afe2-814bb0201170,verily.fm,available,99,160.99,medium,low,6,name.com,,,16/09/2026 10:51
+ef2ab71f-5ae2-427b-bb39-60252cdb02f1,bremer.fm,available,88.99,88.99,high,low,6,namesilo,,,30/09/2026 04:16
 ff8dfd87-fbfe-4275-bcbc-5d7f71091dc0,baedeker.fm,available,69.98,118.98,medium,low,8,namecheap,,,21/09/2026 17:22
 4f672672-ffdd-4a45-9974-2c51dc6f91fe,spoilt.fm,available,69.98,118.98,medium,low,6,namecheap,,,10/08/2026 14:19
-b7cbf5eb-76db-4872-8381-834866c81c80,demise.fm,available,69.98,118.98,high,low,6,namecheap,,,14/08/2026 21:56
+b7cbf5eb-76db-4872-8381-834866c81c80,demise.fm,available,69.98,118.98,medium,low,6,namecheap,,,14/08/2026 21:56
 c59c6ab0-9912-4e61-b35a-2639860707eb,bedroom.fm,premium,249.6,102,high,low,7,namesilo,,,22/09/2026 23:08
 d0badaaa-9e72-415d-a0ea-46638bec50df,strait.fm,available,69.98,118.98,medium,low,6,namecheap,,,10/09/2026 21:53
-113d461f-e9a2-4ef1-a439-2f50c864dd02,liveable.fm,available,69.98,118.98,high,low,8,namecheap,,,24/08/2026 07:44
+113d461f-e9a2-4ef1-a439-2f50c864dd02,liveable.fm,available,69.98,118.98,medium,low,8,namecheap,,,24/08/2026 07:44
+2da1cb09-b7d3-4dcf-834a-4fa5405befac,attributes.fm,available,85,85,medium,low,10,cloudflare,,,01/10/2026 00:07
 1b16c267-105a-40c1-bc36-288c3511750e,scalar.fm,available,69.98,118.98,high,low,6,namecheap,,,09/09/2026 22:16
 27d7f3d1-17e6-4b0d-9880-92bc14fd09c8,newberry.fm,available,85,85,medium,low,8,cloudflare,,,28/09/2026 21:39
+a6510a71-71a3-4b8a-b1dd-2ab281c6a5a0,publicist.fm,available,88.99,88.99,high,low,9,namesilo,,,30/09/2026 10:55
 c45bd394-81b5-4f5e-b318-880fc7ff4746,ruthenium.fm,available,88.99,88.99,medium,low,9,namesilo,,,20/09/2026 23:08
 42f11fea-62f3-417b-bd3e-521f9c02ac7c,hemp.fm,available,88.99,88.99,high,low,4,namesilo,,,24/09/2026 12:04
 5c823592-759b-4d02-a7b4-35039ffc6687,irritated.fm,available,69.98,118.98,medium,low,9,namecheap,,,
 7f6cfdc8-4b59-4ad9-8bb8-5ebbf18b55e4,shameful.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/08/2026 10:28
 f477162f-4670-4cf3-aad3-711497085cb6,regent.fm,available,69.98,118.98,high,medium,6,namecheap,,,09/09/2026 12:52
 f3eeeffb-2ce2-49c3-9e40-05a7d436f2ac,manly.fm,available,69.98,118.98,high,low,5,namecheap,,,24/08/2026 14:44
-be894c67-b2ef-43b9-9144-97f6d20a6b25,trading.fm,resell,,,high,low,7,Instra Corporation Pty Ltd.,03/08/2012 23:59,03/08/2027 23:59,26/09/2026 09:43
+be894c67-b2ef-43b9-9144-97f6d20a6b25,trading.fm,resell,,,high,low,7,Instra Corporation Pty Ltd.,03/08/2012 23:59,03/08/2027 23:59,30/09/2026 13:44
 cca2cf3e-3377-4f0f-be1f-ca24bde98d7f,anthidium.fm,available,69.98,118.98,medium,low,9,namecheap,,,19/09/2026 13:22
-bff35177-cba4-4e8d-8dce-be616d99361b,postmortem.fm,available,69.98,118.98,high,low,10,namecheap,,,09/09/2026 00:31
+bff35177-cba4-4e8d-8dce-be616d99361b,postmortem.fm,available,69.98,118.98,medium,low,10,namecheap,,,09/09/2026 00:31
 9df348c5-ceb8-44b3-87af-64e9d03ecf91,mainstay.fm,available,88.99,88.99,high,low,8,namesilo,,,21/09/2026 15:13
-7262eb37-3513-4d8b-8835-7ac096f3bc38,basque.fm,available,88.99,88.99,high,low,6,namesilo,,,22/09/2026 11:41
+7262eb37-3513-4d8b-8835-7ac096f3bc38,basque.fm,available,88.99,88.99,medium,low,6,namesilo,,,22/09/2026 11:41
 78d22000-4208-48fa-b2a0-cfe394cabf6e,theocratic.fm,available,69.98,118.98,medium,low,10,namecheap,,,11/09/2026 12:52
 3e340695-a7e9-415e-a4f0-2cf0ced29795,asp.fm,premium,1273.6,102,high,low,3,namesilo,,,20/09/2026 14:30
 1b55a774-04ed-4693-940a-48827e3b53e0,appreciation.fm,available,88.99,88.99,high,low,12,namesilo,,,25/09/2026 03:02
@@ -767,7 +833,9 @@ a3c36fd1-6d14-41e6-8d27-88402f1516c1,digestive.fm,available,69.98,118.98,high,lo
 21a509ca-7b47-4ab8-9a82-9a702a17a0df,happening.fm,available,88.99,88.99,high,low,9,namesilo,,,25/09/2026 23:54
 5977d376-e2fd-4d80-ba53-8c3d2f1a3f45,alarmed.fm,available,69.98,118.98,medium,low,7,namecheap,,,
 8cc82b04-513b-40e2-a953-3ff8fc75348f,temper.fm,available,88.99,88.99,high,low,6,namesilo,,,27/09/2026 04:28
+247a5018-b127-4969-b812-fec6269e2e26,defeats.fm,available,67.98,87.72,low,low,7,spaceship,,,30/09/2026 15:35
 d8ad2603-2d5b-45db-b4e4-d30efdffc6ad,gaylord.fm,available,87.85,87.85,high,low,7,porkbun,,,29/09/2026 03:38
+dd233cc3-0590-477d-b0a2-e81fd80c0def,jubilee.fm,available,68.25,89.25,high,low,7,dynadot,,,30/09/2026 17:45
 a9c2213c-2dce-4680-9c87-923785aedba2,downriver.fm,available,69.98,118.98,high,low,9,namecheap,,,14/08/2026 18:01
 438818b9-202f-4845-aff5-1e1ee114b036,decca.fm,available,69.98,118.98,high,low,5,namecheap,,,28/09/2026 21:44
 612bdb6e-e8e1-41f6-8f85-1bd0c3b09ec5,eyeshadow.fm,available,69.98,118.98,high,low,10,namecheap,,,
@@ -788,43 +856,46 @@ a42947f4-5519-48b2-9586-9bd800ee784d,steals.fm,available,88.99,88.99,medium,low,
 51be48ef-fddd-44d7-845c-d0f84c4e70e0,heighten.fm,available,69.98,118.98,high,low,8,namecheap,,,12/08/2026 19:31
 c275d07d-a7bd-41c1-9cbc-163a67346443,headquarters.fm,available,88.99,88.99,high,low,12,namesilo,,,27/09/2026 02:02
 71b4a233-f5f8-4dbe-b34b-4a70cd5da530,sloped.fm,available,69.98,118.98,medium,low,6,namecheap,,,07/08/2026 04:26
+a5110d0b-9af9-4a79-bd31-7e53d4b001e4,billionaire.fm,premium,377.6,102,high,low,11,namesilo,,,30/09/2026 03:33
 5433497c-c92f-4610-92d4-ff64a2f300ec,ballpark.fm,available,99,160.99,high,low,8,name.com,,,19/09/2026 22:25
 52f6edff-c85e-459c-82ac-187351bcc860,ebert.fm,available,69.98,118.98,medium,low,5,namecheap,,,28/09/2026 08:02
 9da76b63-fabd-4152-8925-2f91d9ea443e,suny.fm,available,67.98,87.72,medium,low,4,spaceship,,,28/09/2026 16:53
-034aba7c-3daf-467f-90a6-59732b32a1a9,wharf.fm,available,88.99,88.99,high,low,5,namesilo,,,
+034aba7c-3daf-467f-90a6-59732b32a1a9,wharf.fm,available,88.99,88.99,high,low,5,namesilo,,,30/09/2026 06:43
 fe70db48-bb51-4d7b-9122-5ef498e1aa7f,alienism.fm,available,99,160.99,medium,low,8,name.com,,,18/09/2026 07:34
 4caceb97-01c8-4656-b5af-1c29145bc4ba,waitress.fm,available,88.99,88.99,high,low,8,namesilo,,,27/09/2026 16:14
 6349058c-2381-4eb2-a5c6-dcf85201cc32,sororal.fm,available,69.98,118.98,medium,low,7,namecheap,,,10/09/2026 08:56
 d1bbe5ff-1d65-490e-a7ba-7be1a4674641,azt.fm,available,88.99,88.99,high,low,3,namesilo,,,21/09/2026 11:33
+69d861b3-3b98-4d37-8f0b-54627552adb7,mandal.fm,available,85,85,medium,low,6,cloudflare,,,30/09/2026 20:27
 bf8f3739-5d4b-48ed-a099-93ff5c651794,credendum.fm,available,88.99,88.99,medium,low,9,namesilo,,,20/09/2026 11:13
 6a2e5ce6-eede-4580-8697-257593eb3ae5,hancock.fm,available,88.99,88.99,high,low,7,namesilo,,,25/09/2026 06:51
 c672f784-1377-4ea9-b416-168990312be5,scoring.fm,available,88.99,88.99,high,low,7,namesilo,,,29/09/2026 02:05
 62b78d15-9eaf-4737-94fa-76d4b78a285e,drought.fm,available,85,85,medium,low,7,cloudflare,,,29/09/2026 12:05
 78ed9558-0e02-4a7f-9cf9-3d2c77260b42,abandonment.fm,available,85,85,medium,low,11,cloudflare,,,29/09/2026 22:48
+4794b0a5-9c28-4796-b10a-ea683ef4c8bd,saf.fm,available,85,85,high,low,3,cloudflare,,,30/09/2026 12:43
 b2180dde-6636-4ae5-94c6-fd7b3a72604a,buyers.fm,available,67.98,87.72,medium,low,6,spaceship,,,29/09/2026 05:47
 44169394-c1fd-4352-af04-3e0f2687d341,spinous.fm,available,69.98,118.98,medium,low,7,namecheap,,,
 c1735b13-c008-4107-9b1b-4e67db5e551d,burglary.fm,available,87.85,87.85,medium,low,8,porkbun,,,29/09/2026 00:17
 b5d61062-b5d4-4f22-90db-ebb16f19d12d,pasty.fm,available,69.98,118.98,high,low,5,namecheap,,,20/08/2026 15:21
 4ce2204e-e379-4917-ad47-93570f3290c7,anticipation.fm,available,88.99,88.99,high,low,12,namesilo,,,28/09/2026 22:53
-f57d98c3-bed5-4b3e-8efa-28b5500556f6,nose.fm,available,88.99,88.99,high,low,4,namesilo,,,
+f57d98c3-bed5-4b3e-8efa-28b5500556f6,nose.fm,available,67.98,87.72,high,low,4,spaceship,,,30/09/2026 05:52
 c2da09e7-620f-41a1-bad2-4a2b6f4d7f26,shitty.fm,available,69.98,118.98,high,low,6,namecheap,,,13/08/2026 05:14
 a236c470-9686-4e09-86fa-349a4001b4b1,atrocious.fm,available,88.99,88.99,medium,low,9,namesilo,,,22/09/2026 11:11
 11a4cd67-5988-40a3-ba58-7ca2ee848a90,tremendous.fm,available,69.98,118.98,high,low,10,namecheap,,,17/08/2026 09:48
 787c4de4-8a8e-475d-8893-137bb34b9717,booker.fm,available,67.98,87.72,high,low,6,spaceship,,,30/09/2026 00:51
-c4216b30-5f6a-4066-abfc-52de23ea9acc,snake.fm,available,88.99,88.99,high,low,5,namesilo,,,
+c4216b30-5f6a-4066-abfc-52de23ea9acc,snake.fm,available,67.98,87.72,high,low,5,spaceship,,,30/09/2026 06:09
 a19b46ea-3cf3-4f9d-bf1c-f7c91b33aae0,arcuate.fm,available,69.98,118.98,medium,low,7,namecheap,,,06/08/2026 14:49
 f92e700c-ba86-41fe-bfea-d774f38c7262,execrable.fm,available,69.98,118.98,medium,low,9,namecheap,,,
 4faa251d-d3ef-4f16-89d1-7a372f33407d,vacuum.fm,available,68.25,89.25,high,low,6,dynadot,,,29/09/2026 23:00
-8729e724-0568-4de7-90ec-d08eb8b3b458,sausage.fm,available,88.99,88.99,high,low,7,namesilo,,,
+8729e724-0568-4de7-90ec-d08eb8b3b458,sausage.fm,available,87.85,87.85,high,low,7,porkbun,,,30/09/2026 10:39
 3f4d7dcc-173e-4483-8690-3122c56aa8a9,mimicry.fm,available,88.99,88.99,medium,low,7,namesilo,,,19/09/2026 16:43
 86bdbea4-c8c6-4dbe-8d9c-84ce3f35aaf3,shakedown.fm,available,69.98,118.98,medium,low,9,namecheap,,,10/09/2026 05:40
 84b5362b-9af7-4ae3-8296-f7cda7e1683e,sterilization.fm,available,88.99,88.99,high,low,13,namesilo,,,16/09/2026 21:54
 08f859ba-ad00-45e3-98e0-b6ab41c3f14c,shipped.fm,available,88.99,88.99,medium,low,7,namesilo,,,28/09/2026 13:02
 00a3f645-60a5-4081-acc1-9cf867c9de86,decision.fm,available,88.99,88.99,high,low,8,namesilo,,,24/09/2026 17:06
 670b6fe7-8362-40f8-94bc-0b76db22c575,tasting.fm,available,67.98,87.72,high,low,7,spaceship,,,29/09/2026 13:40
-a2094cf6-f5b0-45cc-81c7-34952d9b7174,stinging.fm,available,99,160.99,high,low,8,name.com,,,13/08/2026 13:17
+a2094cf6-f5b0-45cc-81c7-34952d9b7174,stinging.fm,available,99,160.99,medium,low,8,name.com,,,13/08/2026 13:17
 ba0d5735-3572-4f0b-901a-2ea0c537744c,wilfred.fm,available,88.99,88.99,medium,low,7,namesilo,,,28/09/2026 07:49
-ab6615cd-abf1-43a7-b9f9-1e78e0a5dd5f,strindberg.fm,available,69.98,118.98,high,low,10,namecheap,,,21/09/2026 03:49
+ab6615cd-abf1-43a7-b9f9-1e78e0a5dd5f,strindberg.fm,available,69.98,118.98,medium,low,10,namecheap,,,21/09/2026 03:49
 7361b0d4-a0ab-4754-b81c-0d67921f476a,treelike.fm,available,69.98,118.98,medium,low,8,namecheap,,,06/08/2026 14:01
 f4333803-70ba-4263-8045-d2f88066fbc1,protector.fm,available,69.98,118.98,high,low,9,namecheap,,,28/09/2026 13:52
 c1d06ad8-56b2-471a-94ba-3d58fe9a7e65,splattered.fm,available,99,160.99,medium,low,10,name.com,,,13/08/2026 15:21
@@ -834,7 +905,7 @@ ed0ed971-4d21-4bfa-bbf3-ce3bf7d33e63,pledged.fm,available,99,160.99,high,low,7,n
 24aafe32-092b-43fe-bf5f-9e2c1f2ff226,unpassable.fm,available,69.98,118.98,medium,low,10,namecheap,,,21/08/2026 21:49
 07c03806-2495-4ac8-a844-1611778e1432,factorial.fm,available,69.98,118.98,high,low,9,namecheap,,,17/08/2026 20:29
 e62725be-8814-4e0d-96c9-9403bb84b4b7,kenaf.fm,available,88.99,88.99,medium,low,5,namesilo,,,23/09/2026 16:55
-2776da11-e587-43c9-96f5-ed943baa510c,those.fm,available,88.99,88.99,medium,low,5,namesilo,,,
+2776da11-e587-43c9-96f5-ed943baa510c,those.fm,available,85,85,medium,low,5,cloudflare,,,01/10/2026 01:32
 8fe98b1a-6472-4f16-95b7-64d3ba4eefe6,sizable.fm,available,69.98,118.98,high,low,7,namecheap,,,20/08/2026 16:38
 68531f0f-fcb5-4431-ae9f-0e10d8d2a8a9,aboulic.fm,available,69.98,118.98,medium,low,7,namecheap,,,
 7c3574c6-bc19-4bc7-b291-7146a70e81e8,elinor.fm,available,87.85,87.85,medium,low,6,porkbun,,,29/09/2026 22:05
@@ -847,7 +918,7 @@ fe5867e0-60c4-4102-a207-792d185ce5a1,sponsored.fm,premium,201.83,87.98,medium,lo
 fc3abec2-bc30-4625-9f49-2076cb3f7792,ototoxic.fm,available,69.98,118.98,medium,low,8,namecheap,,,04/09/2026 18:36
 f24a9fb9-7a5b-4b3c-8f3e-e34a73af545e,primer.fm,premium,201.83,87.98,high,low,6,spaceship,,,29/09/2026 19:29
 2c7e8a36-1641-4042-aeab-c07cba6fe482,wilsonian.fm,available,69.98,118.98,medium,low,9,namecheap,,,13/09/2026 12:02
-e859caf5-bb7d-42ab-9d9e-ba4a4c4d6e24,widen.fm,available,88.99,88.99,high,low,5,namesilo,,,
+e859caf5-bb7d-42ab-9d9e-ba4a4c4d6e24,widen.fm,available,67.98,87.72,high,low,5,spaceship,,,30/09/2026 19:38
 969358ef-18cd-4bf0-9991-fab048ac1f4d,plenty.fm,available,69.98,118.98,high,low,6,namecheap,,,17/08/2026 09:49
 a125e1b3-7209-424e-968a-1dc19b7b70e3,dataflow.fm,available,69.98,118.98,high,low,9,namecheap,,,04/09/2026 04:48
 30361aeb-ef5c-482d-b3a6-8028c19997ab,frustration.fm,available,88.99,88.99,medium,low,11,namesilo,,,28/09/2026 17:13
@@ -857,9 +928,8 @@ a125e1b3-7209-424e-968a-1dc19b7b70e3,dataflow.fm,available,69.98,118.98,high,low
 7deb68da-dbcf-404e-bb9e-4b8660742ba6,azoic.fm,available,69.98,118.98,medium,low,5,namecheap,,,08/08/2026 02:22
 d4a9dd11-5b9c-4871-a11b-4c06a7cdf603,unethical.fm,available,69.98,118.98,medium,low,9,namecheap,,,12/09/2026 09:19
 323a5359-d121-49ea-a4a3-5fb30ef9f58e,bowman.fm,available,88.99,88.99,medium,low,6,namesilo,,,20/09/2026 01:56
-ed7d632e-41d6-418b-bc2f-aeb94ef188e1,report.fm,available,,,high,low,6,,,,
-e4ba2208-2c3a-4ed1-88ed-ec2c078e4556,dishonor.fm,available,67.98,87.72,high,low,8,spaceship,,,29/09/2026 15:45
-17366a14-3518-47d2-9c98-24329710dad9,nicene.fm,available,69.98,118.98,high,low,6,namecheap,,,03/09/2026 17:01
+e4ba2208-2c3a-4ed1-88ed-ec2c078e4556,dishonor.fm,available,67.98,87.72,medium,low,8,spaceship,,,29/09/2026 15:45
+17366a14-3518-47d2-9c98-24329710dad9,nicene.fm,available,69.98,118.98,medium,low,6,namecheap,,,03/09/2026 17:01
 f3861f7a-187e-4657-9b6c-56c891b9f8bc,improbably.fm,available,69.98,118.98,medium,low,10,namecheap,,,15/09/2026 02:27
 c15008f8-2a47-45f2-b3f9-58f6c6b80e08,mothafucker.fm,available,88.99,88.99,medium,low,11,namesilo,,,
 047c8492-85bc-4c16-8402-558664aa32bf,disjointed.fm,available,69.98,118.98,medium,low,10,namecheap,,,14/08/2026 11:16
@@ -875,15 +945,18 @@ d7b0bd63-d4be-414c-9272-55e046bb60d7,alberti.fm,available,88.99,88.99,high,low,7
 8854180b-7cdc-44f5-816e-d3b200c9f718,beloit.fm,available,88.99,88.99,medium,low,6,namesilo,,,29/09/2026 22:33
 7614487e-1f39-4ac9-9d5e-2e0911cba25d,subdivision.fm,available,67.98,87.72,high,low,11,spaceship,,,29/09/2026 21:00
 bde2f718-8940-494b-9ef0-490255609c1e,toroidal.fm,available,69.98,118.98,medium,low,8,namecheap,,,11/09/2026 17:55
+52ed2981-392b-4281-9bfc-bd8566c78095,plateau.fm,available,85,85,high,low,7,cloudflare,,,30/09/2026 18:21
+c6bb8831-b47b-447a-b16d-06c0629ee992,restoration.fm,available,88.99,88.99,high,low,11,namesilo,,,30/09/2026 06:15
 84bbc83a-3262-4378-8f16-7fe0952e546b,ideational.fm,available,69.98,118.98,medium,low,10,namecheap,,,12/08/2026 19:59
 e0e82c81-55df-4206-ba3a-f2aa3fe46dca,maiden.fm,available,69.98,118.98,high,low,6,namecheap,,,22/08/2026 05:32
 d0c5c9dd-398f-4ad3-b005-8b68e82a62e0,scruffy.fm,available,69.98,118.98,medium,low,7,namecheap,,,10/09/2026 00:25
 3cb9c495-c8a4-44af-9497-2da385f2dae3,possessed.fm,available,67.98,87.72,medium,low,9,spaceship,,,28/09/2026 03:28
 903ec41b-51b4-4e4a-9f2f-1e3d3afe4c08,anymore.fm,available,67.98,87.72,medium,low,7,spaceship,,,28/09/2026 12:15
+b734bf64-4961-40af-95d7-78d64d24f730,lata.fm,available,69.98,118.98,high,low,4,namecheap,,,30/09/2026 12:49
 a908cede-49d0-466c-842b-9dd17d795189,someway.fm,available,69.98,118.98,medium,low,7,namecheap,,,15/09/2026 06:46
-7e5a1ca7-65b6-4a00-a9f3-feac4e79f0a7,rumour.fm,available,69.98,118.98,high,low,6,namecheap,,,21/08/2026 02:08
+7e5a1ca7-65b6-4a00-a9f3-feac4e79f0a7,rumour.fm,available,69.98,118.98,medium,low,6,namecheap,,,21/08/2026 02:08
 5c4faa0a-0e1d-4a76-a260-fd103c5249e7,valet.fm,available,69.98,118.98,high,low,5,namecheap,,,29/09/2026 19:00
-502192c4-771f-4ae0-b202-dd461ea52d4b,organisation.fm,available,87.85,87.85,high,low,12,porkbun,,,29/09/2026 04:49
+502192c4-771f-4ae0-b202-dd461ea52d4b,organisation.fm,available,87.85,87.85,medium,low,12,porkbun,,,29/09/2026 04:49
 2f14b2b2-1ae1-4a30-81e3-bbc7ddbf86c1,northman.fm,available,69.98,118.98,medium,low,8,namecheap,,,03/09/2026 21:21
 f9355e8f-e829-47df-adf2-7c629ef9c8f6,abbe.fm,available,88.99,88.99,medium,low,4,namesilo,,,16/09/2026 14:22
 2bd88f80-8aaf-45b2-b4d9-4bb74b2e3435,depleted.fm,available,69.98,118.98,medium,low,8,namecheap,,,14/08/2026 02:23
@@ -895,6 +968,7 @@ caae979b-ca7e-4b6d-86b8-100bcafb3632,capacious.fm,available,69.98,118.98,medium,
 1c2446f9-1bc6-4cd6-ac70-ea1b75503f1b,kazan.fm,available,67.98,87.72,high,low,5,spaceship,,,28/09/2026 05:35
 25d4a3be-0364-496c-8b19-3e6aec85104c,weismann.fm,available,88.99,88.99,medium,low,8,namesilo,,,21/09/2026 03:48
 66c4ad78-dde0-4cfd-abad-697aeca03008,lentils.fm,available,88.99,88.99,medium,low,7,namesilo,,,21/09/2026 05:31
+fb0f4956-3f82-4c8a-bfdf-cf34321caac2,falco.fm,available,69.98,118.98,high,low,5,namecheap,,,01/10/2026 02:00
 26959bd3-0711-44a4-9968-e84404b4c448,temporarily.fm,available,88.99,88.99,medium,low,11,namesilo,,,
 90118b08-fa1c-403a-ae01-2b1c5cb083bd,torre.fm,available,67.98,87.72,high,low,5,spaceship,,,28/09/2026 03:40
 9ae59ace-ca84-4170-a95b-8dbcecf1bf41,playboy.fm,available,69.98,118.98,high,high,7,namecheap,,,13/08/2026 01:18
@@ -902,9 +976,10 @@ c9d7fbef-5253-4265-8d32-bc291503ba0d,abiding.fm,available,88.99,88.99,high,low,7
 9c521c3b-7e7b-4ae7-a386-514a9383ea2a,pendent.fm,available,69.98,118.98,medium,low,7,namecheap,,,08/09/2026 14:07
 d29d1584-0c95-451d-a7c1-df57576826d6,nakedly.fm,available,69.98,118.98,medium,low,7,namecheap,,,15/09/2026 16:02
 fc7c4f2e-3ac6-43ad-a47e-9c0434c04b23,wanton.fm,available,69.98,118.98,medium,low,6,namecheap,,,25/08/2026 07:57
+fc7d6aec-27b6-4e62-bbd6-9c4488f1349c,teammates.fm,available,67.98,87.72,medium,low,9,spaceship,,,30/09/2026 16:12
 77a06ad8-5509-4d30-a116-8c9b0aa7bc1e,eggplant.fm,available,88.99,88.99,high,low,8,namesilo,,,21/09/2026 02:30
 2035908a-80c0-4d48-bf90-ad0ceb745627,bitstock.fm,available,99,160.99,medium,low,8,name.com,,,23/09/2026 22:47
-c7bc45b3-eb81-4bca-8234-ad8882e58226,overgrown.fm,available,69.98,118.98,high,low,9,namecheap,,,04/09/2026 20:42
+c7bc45b3-eb81-4bca-8234-ad8882e58226,overgrown.fm,available,69.98,118.98,medium,low,9,namecheap,,,04/09/2026 20:42
 3c643639-08e9-48a8-94f2-51796fc7fece,hopeful.fm,available,88.99,88.99,high,low,7,namesilo,,,22/09/2026 09:48
 1b8e2c80-1bf4-41eb-88fe-0c9792772ba1,merchants.fm,available,88.99,88.99,medium,low,9,namesilo,,,18/09/2026 04:36
 c47fd11d-e989-4612-b420-6073a9a0a9f3,hygiene.fm,available,67.98,87.72,high,low,7,spaceship,,,29/09/2026 01:19
@@ -920,82 +995,7 @@ ed6c0860-0575-4b63-a5ca-03f43bdaa7e3,accountable.fm,available,88.99,88.99,high,l
 e59b7c62-507b-4b74-b040-bf5705c0f627,gimcrack.fm,available,69.98,118.98,medium,low,8,namecheap,,,18/08/2026 06:39
 32deb261-cf66-4456-be06-cbd0d51a7672,fluky.fm,available,69.98,118.98,medium,low,5,namecheap,,,18/08/2026 09:19
 57395d26-3ef9-40ca-b09a-8c583fd87610,steamed.fm,available,69.98,118.98,high,low,7,namecheap,,,
+af114126-7ecc-4779-9caf-98463da7879e,bourne.fm,available,88.99,88.99,medium,low,6,namesilo,,,30/09/2026 08:47
 4a1add83-ad87-4e42-9d05-2c2abd08e730,bergman.fm,available,88.99,88.99,high,low,7,namesilo,,,23/09/2026 09:21
+17820cee-f7b2-4889-b8df-b0b423d3d055,radiology.fm,available,88.99,88.99,high,low,9,namesilo,,,30/09/2026 10:55
 17b6b941-2731-4c1f-b542-584bb32bc179,rivalry.fm,available,85,85,high,low,7,cloudflare,,,29/09/2026 20:12
-d9f37d0a-484d-4e2f-947c-474e157a0d9a,squeaky.fm,available,69.98,118.98,medium,low,7,namecheap,,,10/09/2026 00:04
-7708aed4-3d50-4144-a149-916475b2a94d,endeavor.fm,available,88.99,88.99,high,low,8,namesilo,,,21/09/2026 01:15
-687c4bf8-7779-471b-aaa0-e08d1c1e68f4,lame.fm,available,69.98,118.98,high,low,4,namecheap,,,13/08/2026 07:03
-168ccb36-6702-4ee3-9f4c-53293326d250,desperately.fm,available,69.98,118.98,medium,low,11,namecheap,,,28/09/2026 07:05
-e66d78b8-bca6-4634-9900-264ff89e4a99,byzant.fm,available,88.99,88.99,medium,low,6,namesilo,,,23/09/2026 12:17
-b518db7f-7d51-4402-9c4d-c0aa04297dd1,shown.fm,available,88.99,88.99,high,low,5,namesilo,,,27/09/2026 08:00
-7e12d30e-0b16-4989-b16f-b8072a1c22ec,tricuspid.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/09/2026 19:29
-d2e46202-1225-4de0-a213-320ce1ac8dd6,enchanting.fm,available,69.98,118.98,high,low,10,namecheap,,,09/08/2026 18:21
-ff209821-a23f-4879-9607-cf35afc6abd8,nourishing.fm,available,69.98,118.98,high,low,10,namecheap,,,19/09/2026 17:50
-176a08bc-762d-4e80-8317-57ff0077e9cc,strontium.fm,available,88.99,88.99,medium,low,9,namesilo,,,20/09/2026 22:59
-5611087b-b8ef-4a54-a962-ef5ccb77b892,unoccupied.fm,available,69.98,118.98,medium,low,10,namecheap,,,12/09/2026 16:09
-02ebef2f-126c-4981-a6f8-4b7161cab7d3,descend.fm,available,88.99,88.99,high,low,7,namesilo,,,
-6a37390f-15a4-40eb-81e3-6cf9ff31ca58,dogfight.fm,available,69.98,118.98,high,medium,8,namecheap,,,09/09/2026 18:56
-d2b6f3f5-933d-4764-9654-cfbc2e668b4e,dafla.fm,available,88.99,88.99,medium,low,5,namesilo,,,16/09/2026 16:37
-dfbd926a-1f2f-4eff-9222-8827f3bdf270,bracket.fm,available,69.98,118.98,high,low,7,namecheap,,,19/09/2026 06:22
-098c58e6-8672-47a4-a291-67ac25c2aafb,arrows.fm,available,88.99,88.99,medium,low,6,namesilo,,,17/09/2026 06:24
-10da9cf2-f1d6-4728-bccf-401a7a902732,incognito.fm,available,69.98,118.98,high,low,9,namecheap,,,22/08/2026 01:36
-d1ec614d-16ea-4086-b32a-48a1bea6d693,argonaut.fm,available,88.99,88.99,medium,low,8,namesilo,,,20/09/2026 04:31
-8e20b259-fc17-4482-a780-509cf8be0dae,min.fm,premium,243.75,160.99,high,low,3,name.com,,,25/08/2026 00:58
-d2676781-59d5-4426-a995-6ccd1fb48dd5,habited.fm,available,69.98,118.98,medium,low,7,namecheap,,,20/08/2026 21:27
-148d679c-1112-4e38-9129-2ce03c42615e,arcanum.fm,available,88.99,88.99,high,low,7,namesilo,,,20/09/2026 01:37
-8d2ae6e7-1211-44ca-9934-db31844eeb28,nonstick.fm,available,69.98,118.98,medium,low,8,namecheap,,,03/09/2026 20:45
-6fdc3c9c-2526-439a-a63d-d53b47594eaa,underling.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/09/2026 00:39
-e9b7c405-d8fc-4fbd-9993-555525b23a7b,memorably.fm,available,69.98,118.98,medium,low,9,namecheap,,,15/09/2026 14:01
-621df5fd-5215-4d51-946f-7d7ee11b572a,plumping.fm,available,69.98,118.98,medium,low,8,namecheap,,,08/09/2026 21:52
-18a28ac6-2921-4519-a58c-b916f46d9d8b,umpteenth.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/09/2026 23:09
-acc13aaf-65de-4948-bfbe-3006f74f72be,responsible.fm,available,88.99,88.99,high,low,11,namesilo,,,25/09/2026 11:15
-06a30efb-ff9b-40b8-ba16-6395e0e771c0,voluble.fm,available,69.98,118.98,medium,low,7,namecheap,,,13/09/2026 06:59
-df5685af-2149-43de-b550-6e2f8eede7e3,ottawa.fm,available,88.99,88.99,high,low,6,namesilo,,,24/09/2026 11:58
-373cb5bf-7766-4696-9ac0-09053d69b8f2,journals.fm,available,67.98,87.72,medium,low,8,spaceship,,,29/09/2026 16:35
-75326c6c-a277-49aa-b07b-92efd33507c5,collision.fm,available,67.98,87.72,high,low,9,spaceship,,,29/09/2026 10:17
-b874d470-5226-4380-9312-8c97d14bbe2a,pointing.fm,available,88.99,88.99,high,low,8,namesilo,,,27/09/2026 08:31
-4f2b309a-570a-4061-99cc-018c56d2a914,waterproof.fm,available,69.98,118.98,high,medium,10,namecheap,,,09/09/2026 09:48
-051a13d6-ca9f-4270-8860-fb156e762586,artfully.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/09/2026 20:53
-4acda65c-5fc7-4dbd-9ace-9dcec10bd407,sellers.fm,premium,201.83,87.98,high,low,7,spaceship,,,29/09/2026 13:41
-0bad1954-a24f-4072-b5e3-84d05e45a88c,crowds.fm,available,67.98,87.72,medium,low,6,spaceship,,,28/09/2026 17:41
-13956355-55d6-4d7f-833c-0b1c9dc2aa78,jackfruit.fm,available,88.99,88.99,high,low,9,namesilo,,,20/09/2026 11:58
-7d8dfa0b-5de6-477f-8193-4f8a9b82d8a6,eyestrain.fm,available,88.99,88.99,medium,low,9,namesilo,,,20/09/2026 17:21
-1bd5f44c-b5e2-4fa9-912e-ff216e5679af,colleagues.fm,available,88.99,88.99,medium,low,10,namesilo,,,18/09/2026 23:15
-d9e91126-63bf-4299-a4eb-9d22427a39b4,stieglitz.fm,available,88.99,88.99,medium,low,9,namesilo,,,18/09/2026 06:45
-a1eb255c-ed7d-4ba7-8a57-50524be139f6,blissful.fm,available,69.98,118.98,high,low,8,namecheap,,,10/08/2026 14:33
-c9d9d64e-4282-4ecc-850a-c6bd03445b19,lavish.fm,available,69.98,118.98,high,low,6,namecheap,,,22/08/2026 21:07
-96858e1f-701c-4e99-9115-ffcb69e7dc46,quit.fm,available,88.99,88.99,high,low,4,namesilo,,,24/09/2026 13:22
-7f3e40f8-4acc-4979-b156-027e0a645895,broadcasting.fm,premium,,,high,low,12,,,,28/09/2026 12:27
-de21128d-4242-4e56-8224-2980d98d2881,aeroplane.fm,available,69.98,118.98,high,low,9,namecheap,,,08/09/2026 20:39
-3fd26770-6969-4163-af29-8fb2df94132f,encomium.fm,available,69.98,118.98,high,low,8,namecheap,,,05/09/2026 00:40
-ebae309c-1b20-400f-93c2-a849cc182704,nonporous.fm,available,69.98,118.98,medium,low,9,namecheap,,,03/09/2026 20:18
-25319da5-55e2-43f1-b97b-c33fe8a8fab5,irish.fm,premium,1243.75,160.99,high,low,5,name.com,,,22/08/2026 09:54
-bc7ec20a-5757-4b3e-87e0-eda2f8819b42,vernal.fm,available,69.98,118.98,medium,low,6,namecheap,,,13/09/2026 04:19
-e4727fe3-ff12-44c5-9023-d480141c4958,lowe.fm,available,85,85,high,low,4,cloudflare,,,29/09/2026 15:01
-b61310cf-8d99-4070-872a-983dd4320a08,thermoset.fm,available,69.98,118.98,medium,low,9,namecheap,,,11/09/2026 12:58
-a2d9a7b9-7687-4493-aeef-24db4d7fe38a,colossus.fm,available,69.98,118.98,high,low,8,namecheap,,,23/09/2026 03:27
-10ebf770-e3b2-443f-8337-bcf05bcfaa72,espouse.fm,available,69.98,118.98,high,low,7,namecheap,,,13/09/2026 09:39
-924f22eb-d771-4202-89a4-db9ce4e4babf,rimed.fm,available,69.98,118.98,medium,low,5,namecheap,,,09/09/2026 17:39
-1dedb917-f32f-4a0e-88bb-9a54dd086a48,eldritch.fm,available,69.98,118.98,medium,low,8,namecheap,,,16/08/2026 02:21
-9023e418-2dc9-46f6-960f-a47da2261635,enmity.fm,available,88.99,88.99,medium,low,6,namesilo,,,19/09/2026 12:26
-b4566653-4afc-403a-987a-516e376654a9,apical.fm,available,69.98,118.98,high,low,6,namecheap,,,05/08/2026 23:58
-b856160b-000a-4593-ab74-f36def7a9ee7,whittier.fm,available,85,85,medium,low,8,cloudflare,,,28/09/2026 10:10
-7d98f5e2-64ec-4de8-b52f-12fcf2f02948,faintly.fm,available,69.98,118.98,medium,low,7,namecheap,,,14/09/2026 17:33
-68fe53f4-7d05-42ab-9217-10dbc1a1a9d2,instability.fm,available,88.99,88.99,medium,low,11,namesilo,,,29/09/2026 23:37
-5741b14c-84b9-42e0-b59a-b87dd992e337,aper.fm,available,88.99,88.99,medium,low,4,namesilo,,,19/09/2026 16:29
-c0ac8ca6-a8da-48a0-9beb-1cbebc52bd78,berretta.fm,available,88.99,88.99,medium,low,8,namesilo,,,23/09/2026 10:07
-abfa311c-0672-4234-aaa7-e1d62bc7af52,dolby.fm,available,88.99,88.99,high,medium,5,namesilo,,,30/09/2026 01:20
-84e11584-49ca-417c-a51f-fa442f90c4c9,uncoiled.fm,available,69.98,118.98,medium,low,8,namecheap,,,12/09/2026 05:44
-035cad21-0683-4d45-9632-50399de9e2ff,berlage.fm,available,88.99,88.99,medium,low,7,namesilo,,,23/09/2026 09:36
-237fb741-3ee8-4c69-a874-e2c4b309a38f,superficial.fm,available,67.98,87.72,medium,low,11,spaceship,,,28/09/2026 20:58
-5ed3596d-590d-4737-a8d6-e6f9b04ea76e,goofy.fm,available,69.98,118.98,high,low,5,namecheap,,,12/08/2026 14:50
-1a4c130d-0d79-4f26-8563-9fffd3ca9d38,gauge.fm,available,68.25,89.25,high,low,5,dynadot,,,29/09/2026 00:50
-7c14e6af-4cf8-4a17-b47b-e9e53b6ab8e8,precooked.fm,available,69.98,118.98,high,medium,9,namecheap,,,09/09/2026 01:17
-c1b4cd22-1136-4912-8cf7-8e7eb5715795,bps.fm,available,88.99,88.99,high,low,3,namesilo,,,23/09/2026 22:46
-bd8ff806-e8ec-4a10-aa89-93604c2db264,pipeline.fm,premium,249.6,102,high,low,8,namesilo,,,29/09/2026 01:07
-fd483641-52e2-452d-afad-dbd6982021dd,weakening.fm,available,99,160.99,medium,low,9,name.com,,,13/08/2026 20:44
-ec070b26-dcc5-49ef-84c3-b106646ad931,pintail.fm,available,88.99,88.99,medium,low,7,namesilo,,,19/09/2026 02:52
-d2731ba9-023f-4e24-b8af-4d8d5ae4bb13,copied.fm,available,69.98,118.98,medium,low,6,namecheap,,,28/09/2026 17:26
-b3dfc9f7-b275-4022-818f-d2a69aff68bd,tomas.fm,available,88.99,88.99,medium,low,5,namesilo,,,28/09/2026 04:37
-3dd595e4-2d1d-4139-8dd2-4b62e68b2e78,benni.fm,available,88.99,88.99,high,low,5,namesilo,,,23/09/2026 08:28
-2da7edf2-da1d-417c-a4e2-f26a323f24b1,cumulous.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/08/2026 10:30
